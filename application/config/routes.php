@@ -78,4 +78,44 @@ $route['admin/component_progress'] = 'admin/Dashboard/component_progress';
 $route['admin/component_spinner'] = 'admin/Dashboard/component_spinner';
 $route['admin/component_tooltip'] = 'admin/Dashboard/component_tooltip';
 
+$route['admin/error_403'] = 'admin/Dashboard/error_403';
+$route['admin/error_404'] = 'admin/Dashboard/error_404';
+$route['admin/error_500'] = 'admin/Dashboard/error_500';
 
+$route['admin/extra_component_avatar'] = 'admin/Dashboard/extra_component_avatar';
+$route['admin/extra_component_divider'] = 'admin/Dashboard/extra_component_divider';
+$route['admin/extra_component_rating'] = 'admin/Dashboard/extra_component_rating';
+$route['admin/extra_component_sweetalert'] = 'admin/Dashboard/extra_component_sweetalert';
+$route['admin/extra_component_toastify'] = 'admin/Dashboard/extra_component_toastify';
+
+$route['admin/form_editor_ckeditor'] = 'admin/Dashboard/form_editor_ckeditor';
+$route['admin/form_editor_quill'] = 'admin/Dashboard/form_editor_quill';
+$route['admin/form_editor_summernote'] = 'admin/Dashboard/form_editor_summernote';
+$route['admin/form_editor_tinymce'] = 'admin/Dashboard/form_editor_tinymce';
+$route['admin/form_element_checkbox'] = 'admin/Dashboard/form_element_checkbox';
+$route['admin/form_element_input_group'] = 'admin/Dashboard/form_element_input_group';
+$route['admin/form_element_input'] = 'admin/Dashboard/form_element_input';
+$route['admin/form_element_radio'] = 'admin/Dashboard/form_element_radio';
+$route['admin/form_element_select'] = 'admin/Dashboard/form_element_select';
+$route['admin/form_element_textarea'] = 'admin/Dashboard/form_element_textarea';
+$route['admin/form_layout'] = 'admin/Dashboard/form_layout';
+
+$route['admin/layout_default'] = 'admin/Dashboard/layout_default';
+$route['admin/layout_horizontal'] = 'admin/Dashboard/layout_horizontal';
+$route['admin/layout_vertical_1__column'] = 'admin/Dashboard/layout_vertical_1__column';
+$route['admin/layout_vertical'] = 'admin/Dashboard/layout_vertical';
+
+$route['admin/table_datatable'] = 'admin/Dashboard/table_datatable';
+$route['admin/table'] = 'admin/Dashboard/table';
+
+$route['admin/ui_chart_apexcharts'] = 'admin/Dashboard/ui_chart_apexcharts';
+$route['admin/ui_chart_chartjs'] = 'admin/Dashboard/ui_chart_chartjs';
+$route['admin/ui_file_uploader'] = 'admin/Dashboard/ui_file_uploader';
+$route['admin/ui_icons_bootstrap_icons'] = 'admin/Dashboard/ui_icons_bootstrap_icons';
+$route['admin/ui_icons_dripicons'] = 'admin/Dashboard/ui_icons_dripicons';
+$route['admin/ui_icons_fontawesome'] = 'admin/Dashboard/ui_icons_fontawesome';
+$route['admin/ui_map_google_map'] = 'admin/Dashboard/ui_map_google_map';
+$route['admin/ui_map_jsvectormap'] = 'admin/Dashboard/ui_map_jsvectormap';
+$route['admin/ui_widgets_chatbox'] = 'admin/Dashboard/ui_widgets_chatbox';
+$route['admin/ui_widgets_pricing'] = 'admin/Dashboard/ui_widgets_pricing';
+$route['admin/ui_widgets_todolist'] = 'admin/Dashboard/ui_widgets_todolist';

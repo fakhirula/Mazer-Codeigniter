@@ -184,6 +184,10 @@ class Dashboard extends CI_Controller {
 	{
 		$this->load->view('admin/_partials/form-editor-textarea');
 	}
+	public function form_layout()
+	{
+		$this->load->view('admin/_partials/form-layout');
+	}
 	
 	// ---------------------------------------------------------------------------------------------
 
