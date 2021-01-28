@@ -102,7 +102,7 @@ $route['admin/form_layout'] = 'admin/Dashboard/form_layout';
 
 $route['admin/layout_default'] = 'admin/Dashboard/layout_default';
 $route['admin/layout_horizontal'] = 'admin/Dashboard/layout_horizontal';
-$route['admin/layout_vertical_1__column'] = 'admin/Dashboard/layout_vertical_1__column';
+$route['admin/layout_vertical_1_column'] = 'admin/Dashboard/layout_vertical_1_column';
 $route['admin/layout_vertical'] = 'admin/Dashboard/layout_vertical';
 
 $route['admin/table_datatable'] = 'admin/Dashboard/table_datatable';
