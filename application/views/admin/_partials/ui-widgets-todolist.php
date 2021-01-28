@@ -89,7 +89,7 @@
                                                     <div class="badge badge-pill badge-light-success me-1">frontend
                                                     </div>
                                                     <div class="avatar bg-warning">
-                                                        <img src="assets/images/faces/1.jpg" alt="" srcset="">
+                                                        <img src="<?php echo base_url('') ?>assets/images/faces/1.jpg" alt="" srcset="">
                                                     </div>
                                                     <i
                                                         class="bx bx-dots-vertical-rounded font-medium-3 cursor-pointer"></i>
@@ -112,7 +112,7 @@
                                                 <div class="widget-todo-item-action d-flex align-items-center">
                                                     <div class="badge badge-pill badge-light-danger me-1">backend</div>
                                                     <div class="avatar bg-warning">
-                                                        <img src="assets/images/faces/2.jpg" alt="" srcset="">
+                                                        <img src="<?php echo base_url('') ?>assets/images/faces/2.jpg" alt="" srcset="">
                                                     </div>
                                                     <i
                                                         class="bx bx-dots-vertical-rounded font-medium-3 cursor-pointer"></i>
@@ -136,7 +136,7 @@
                                                 <div class="widget-todo-item-action d-flex align-items-center">
                                                     <div class="badge badge-pill badge-light-primary me-1">UI/UX</div>
                                                     <div class="avatar bg-rgba-primary m-0 me-50">
-                                                        <img src="assets/images/faces/3.jpg" alt="" srcset="">
+                                                        <img src="<?php echo base_url('') ?>assets/images/faces/3.jpg" alt="" srcset="">
                                                     </div>
                                                     <i
                                                         class="bx bx-dots-vertical-rounded font-medium-3 cursor-pointer"></i>
@@ -158,7 +158,7 @@
                                                 <div class="widget-todo-item-action d-flex align-items-center">
                                                     <div class="badge badge-pill badge-light-info me-1">Design</div>
                                                     <div class="avatar bg-warning">
-                                                        <img src="assets/images/faces/4.jpg" alt="" srcset="">
+                                                        <img src="<?php echo base_url('') ?>assets/images/faces/4.jpg" alt="" srcset="">
                                                     </div>
                                                     <i
                                                         class="bx bx-dots-vertical-rounded font-medium-3 cursor-pointer"></i>
@@ -183,7 +183,7 @@
                                                     <div class="badge badge-pill badge-light-warning me-1">Javascript
                                                     </div>
                                                     <div class="avatar bg-warning">
-                                                        <img src="assets/images/faces/5.jpg" alt="" srcset="">
+                                                        <img src="<?php echo base_url('') ?>assets/images/faces/5.jpg" alt="" srcset="">
                                                     </div>
                                                     <i
                                                         class="bx bx-dots-vertical-rounded font-medium-3 cursor-pointer"></i>
@@ -204,7 +204,7 @@
                                                 <div class="widget-todo-item-action d-flex align-items-center">
                                                     <div class="badge badge-pill badge-light-primary me-1">UI/UX</div>
                                                     <div class="avatar bg-warning">
-                                                        <img src="assets/images/faces/1.jpg" alt="" srcset="">
+                                                        <img src="<?php echo base_url('') ?>assets/images/faces/1.jpg" alt="" srcset="">
                                                     </div>
                                                     <i
                                                         class="bx bx-dots-vertical-rounded font-medium-3 cursor-pointer"></i>

@@ -55,7 +55,7 @@
 
                                                     <svg class="bi" width="1.5em" height="1.5em" fill="currentColor">
                                                         <use
-                                                            xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#envelope" />
+                                                            xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#envelope" />
                                                     </svg>
                                                     </i>
                                                 </div>
@@ -68,7 +68,7 @@
 
                                                     <svg class="bi" width="1.5em" height="1.5em" fill="currentColor">
                                                         <use
-                                                            xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#archive" />
+                                                            xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#archive" />
                                                     </svg>
                                                 </div>
                                                 Sent
@@ -78,7 +78,7 @@
 
                                                     <svg class="bi" width="1.5em" height="1.5em" fill="currentColor">
                                                         <use
-                                                            xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#pencil" />
+                                                            xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#pencil" />
                                                     </svg>
                                                 </div> Draft
                                             </a>
@@ -86,7 +86,7 @@
                                                 <div class="fonticon-wrap d-inline me-3">
 
                                                     <svg class="bi" width="1.5em" height="1.5em" fill="currentColor">
-                                                        <use xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#star" />
+                                                        <use xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#star" />
                                                     </svg>
                                                 </div>
                                                 Starred
@@ -96,7 +96,7 @@
 
                                                     <svg class="bi" width="1.5em" height="1.5em" fill="currentColor">
                                                         <use
-                                                            xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#info-circle" />
+                                                            xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#info-circle" />
                                                     </svg>
                                                 </div>
                                                 Spam
@@ -107,7 +107,7 @@
                                                 <div class="fonticon-wrap d-inline me-3">
                                                     <svg class="bi" width="1.5em" height="1.5em" fill="currentColor">
                                                         <use
-                                                            xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#trash" />
+                                                            xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#trash" />
                                                     </svg>
                                                 </div>
                                                 Trash
@@ -303,7 +303,7 @@
                                                                     <svg class="bi" width="1.5em" height="1.5em"
                                                                         fill="currentColor">
                                                                         <use
-                                                                            xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#trash" />
+                                                                            xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#trash" />
                                                                     </svg>
                                                                 </span>
                                                             </button>
@@ -315,7 +315,7 @@
                                                                     <svg class="bi" width="1.5em" height="1.5em"
                                                                         fill="currentColor">
                                                                         <use
-                                                                            xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#envelope" />
+                                                                            xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#envelope" />
                                                                     </svg>
                                                                 </span>
                                                             </button>
@@ -331,7 +331,7 @@
                                                                         <svg class="bi" width="1.5em" height="1.5em"
                                                                             fill="currentColor">
                                                                             <use
-                                                                                xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#folder" />
+                                                                                xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#folder" />
                                                                         </svg>
                                                                     </span>
                                                                 </button>
@@ -357,7 +357,7 @@
                                                                         <svg class="bi" width="1.5em" height="1.5em"
                                                                             fill="currentColor">
                                                                             <use
-                                                                                xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#tag" />
+                                                                                xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#tag" />
                                                                         </svg>
                                                                     </span>
                                                                 </button>
@@ -404,7 +404,7 @@
                                                             <div class="form-control-icon">
                                                                 <svg class="bi" width="1.5em" height="1.5em" fill="currentColor">
                                                                     <use
-                                                                        xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#search" />
+                                                                        xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#search" />
                                                                 </svg>
                                                             </div>
                                                         </div>
@@ -414,13 +414,13 @@
                                                     <button class="btn btn-icon email-pagination-prev d-none d-sm-block">
                                                         <svg class="bi" width="1.5em" height="1.5em" fill="currentColor">
                                                             <use
-                                                                xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#chevron-left" />
+                                                                xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#chevron-left" />
                                                         </svg>
                                                     </button>
                                                     <button class="btn btn-icon email-pagination-next d-none d-sm-block">
                                                         <svg class="bi" width="1.5em" height="1.5em" fill="currentColor">
                                                             <use
-                                                                xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#chevron-right" />
+                                                                xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#chevron-right" />
                                                         </svg>
                                                     </button>
                                                 </div>
@@ -442,13 +442,13 @@
                                                             <span class="favorite text-warning">
                                                                 <svg class="bi" width="1.5em" height="1.5em" fill="currentColor">
                                                                     <use
-                                                                        xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#star-fill" />
+                                                                        xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#star-fill" />
                                                                 </svg>
                                                             </span>
                                                         </div>
                                                         <div class="pr-50">
                                                             <div class="avatar">
-                                                                <img src="assets/images/faces/1.jpg" alt="avtar img holder">
+                                                                <img src="<?php echo base_url('') ?>assets/images/faces/1.jpg" alt="avtar img holder">
                                                             </div>
                                                         </div>
                                                         <div class="media-body">
@@ -488,13 +488,13 @@
                                                             <span class="favorite">
                                                                 <svg class="bi" width="1.5em" height="1.5em" fill="currentColor">
                                                                     <use
-                                                                        xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#star" />
+                                                                        xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#star" />
                                                                 </svg>
                                                             </span>
                                                         </div>
                                                         <div class="pr-50">
                                                             <div class="avatar">
-                                                                <img class="rounded-circle" src="assets/images/faces/3.jpg"
+                                                                <img class="rounded-circle" src="<?php echo base_url('') ?>assets/images/faces/3.jpg"
                                                                     alt="Generic placeholder image">
                                                             </div>
                                                         </div>
@@ -536,13 +536,13 @@
 
                                                                 <svg class="bi" width="1.5em" height="1.5em" fill="currentColor">
                                                                     <use
-                                                                        xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#star" />
+                                                                        xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#star" />
                                                                 </svg>
                                                             </span>
                                                         </div>
                                                         <div class="pr-50">
                                                             <div class="avatar">
-                                                                <img class="rounded-circle" src="assets/images/faces/7.jpg"
+                                                                <img class="rounded-circle" src="<?php echo base_url('') ?>assets/images/faces/7.jpg"
                                                                     alt="Generic placeholder image">
                                                             </div>
                                                         </div>
@@ -585,13 +585,13 @@
 
                                                                 <svg class="bi" width="1.5em" height="1.5em" fill="currentColor">
                                                                     <use
-                                                                        xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#star" />
+                                                                        xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#star" />
                                                                 </svg>
                                                             </span>
                                                         </div>
                                                         <div class="pr-50">
                                                             <div class="avatar">
-                                                                <img class="rounded-circle" src="assets/images/faces/5.jpg"
+                                                                <img class="rounded-circle" src="<?php echo base_url('') ?>assets/images/faces/5.jpg"
                                                                     alt="Generic placeholder image">
                                                             </div>
                                                         </div>
@@ -635,13 +635,13 @@
 
                                                                 <svg class="bi" width="1.5em" height="1.5em" fill="currentColor">
                                                                     <use
-                                                                        xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#star" />
+                                                                        xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#star" />
                                                                 </svg>
                                                             </span>
                                                         </div>
                                                         <div class="pr-50">
                                                             <div class="avatar">
-                                                                <img class="rounded-circle" src="assets/images/faces/3.jpg"
+                                                                <img class="rounded-circle" src="<?php echo base_url('') ?>assets/images/faces/3.jpg"
                                                                     alt="Generic placeholder image">
                                                             </div>
                                                         </div>
@@ -683,13 +683,13 @@
                                                             <span class="favorite text-warning">
                                                                 <svg class="bi" width="1.5em" height="1.5em" fill="currentColor">
                                                                     <use
-                                                                        xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#star-fill" />
+                                                                        xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#star-fill" />
                                                                 </svg>
                                                             </span>
                                                         </div>
                                                         <div class="pr-50">
                                                             <div class="avatar">
-                                                                <img class="rounded-circle" src="assets/images/faces/8.jpg"
+                                                                <img class="rounded-circle" src="<?php echo base_url('') ?>assets/images/faces/8.jpg"
                                                                     alt="Generic placeholder image">
                                                             </div>
                                                         </div>
@@ -730,13 +730,13 @@
                                                             <span class="favorite text-warning">
                                                                 <svg class="bi" width="1.5em" height="1.5em" fill="currentColor">
                                                                     <use
-                                                                        xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#star-fill" />
+                                                                        xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#star-fill" />
                                                                 </svg>
                                                             </span>
                                                         </div>
                                                         <div class="pr-50">
                                                             <div class="avatar">
-                                                                <img class="rounded-circle" src="assets/images/faces/5.jpg"
+                                                                <img class="rounded-circle" src="<?php echo base_url('') ?>assets/images/faces/5.jpg"
                                                                     alt="Generic placeholder image">
                                                             </div>
                                                         </div>
@@ -778,13 +778,13 @@
 
                                                                 <svg class="bi" width="1.5em" height="1.5em" fill="currentColor">
                                                                     <use
-                                                                        xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#star" />
+                                                                        xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#star" />
                                                                 </svg>
                                                             </span>
                                                         </div>
                                                         <div class="pr-50">
                                                             <div class="avatar">
-                                                                <img class="rounded-circle" src="assets/images/faces/8.jpg"
+                                                                <img class="rounded-circle" src="<?php echo base_url('') ?>assets/images/faces/8.jpg"
                                                                     alt="Generic placeholder image">
                                                             </div>
                                                         </div>
@@ -827,13 +827,13 @@
 
                                                                 <svg class="bi" width="1.5em" height="1.5em" fill="currentColor">
                                                                     <use
-                                                                        xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#star" />
+                                                                        xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#star" />
                                                                 </svg>
                                                             </span>
                                                         </div>
                                                         <div class="pr-50">
                                                             <div class="avatar">
-                                                                <img class="rounded-circle" src="assets/images/faces/6.jpg"
+                                                                <img class="rounded-circle" src="<?php echo base_url('') ?>assets/images/faces/6.jpg"
                                                                     alt="Generic placeholder image">
                                                             </div>
                                                         </div>
@@ -875,13 +875,13 @@
 
                                                                 <svg class="bi" width="1.5em" height="1.5em" fill="currentColor">
                                                                     <use
-                                                                        xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#star" />
+                                                                        xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#star" />
                                                                 </svg>
                                                             </span>
                                                         </div>
                                                         <div class="pr-50">
                                                             <div class="avatar">
-                                                                <img class="rounded-circle" src="assets/images/faces/5.jpg"
+                                                                <img class="rounded-circle" src="<?php echo base_url('') ?>assets/images/faces/5.jpg"
                                                                     alt="Generic placeholder image">
                                                             </div>
                                                         </div>
@@ -925,13 +925,13 @@
 
                                                                 <svg class="bi" width="1.5em" height="1.5em" fill="currentColor">
                                                                     <use
-                                                                        xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#star" />
+                                                                        xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#star" />
                                                                 </svg>
                                                             </span>
                                                         </div>
                                                         <div class="pr-50">
                                                             <div class="avatar">
-                                                                <img class="rounded-circle" src="assets/images/faces/1.jpg"
+                                                                <img class="rounded-circle" src="<?php echo base_url('') ?>assets/images/faces/1.jpg"
                                                                     alt="Generic placeholder image">
                                                             </div>
                                                         </div>
@@ -973,13 +973,13 @@
 
                                                                 <svg class="bi" width="1.5em" height="1.5em" fill="currentColor">
                                                                     <use
-                                                                        xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#star" />
+                                                                        xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#star" />
                                                                 </svg>
                                                             </span>
                                                         </div>
                                                         <div class="pr-50">
                                                             <div class="avatar">
-                                                                <img class="rounded-circle" src="assets/images/faces/3.jpg"
+                                                                <img class="rounded-circle" src="<?php echo base_url('') ?>assets/images/faces/3.jpg"
                                                                     alt="Generic placeholder image">
                                                             </div>
                                                         </div>
@@ -1056,7 +1056,7 @@
                                                             <span class="fonticon-wrap">
                                                                 <svg class="bi" width="1.5em" height="1.5em" fill="currentColor">
                                                                     <use
-                                                                        xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#envelope" />
+                                                                        xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#envelope" />
                                                                 </svg>
                                                             </span>
                                                         </button>
@@ -1145,7 +1145,7 @@
                                                                 <div class="collapse-title media">
                                                                     <div class="pr-1">
                                                                         <div class="avatar mr-75">
-                                                                            <img src="assets/images/faces/18.jpg"
+                                                                            <img src="<?php echo base_url('') ?>assets/images/faces/18.jpg"
                                                                                 alt="avtar img holder" width="30" height="30">
                                                                         </div>
                                                                     </div>
@@ -1209,13 +1209,13 @@
                                                                         <label class="sidebar-label">Attached Files</label>
                                                                         <ul class="list-unstyled mb-0">
                                                                             <li class="cursor-pointer pb-25">
-                                                                                <img src="../../../app-assets/images/icon/psd.png"
+                                                                                <img src="<?php echo base_url('') ?>../../../app-assets/images/icon/psd.png"
                                                                                     alt="psd.png" height="30">
                                                                                 <small
                                                                                     class="text-muted ms-1 attchement-text">uikit-design.psd</small>
                                                                             </li>
                                                                             <li class="cursor-pointer">
-                                                                                <img src="../../../app-assets/images/icon/sketch.png"
+                                                                                <img src="<?php echo base_url('') ?>../../../app-assets/images/icon/sketch.png"
                                                                                     alt="sketch.png" height="30">
                                                                                 <small
                                                                                     class="text-muted ms-1 attchement-text">uikit-design.sketch</small>
@@ -1233,7 +1233,7 @@
                                                                 <div class="collapse-title media">
                                                                     <div class="pr-1">
                                                                         <div class="avatar mr-75">
-                                                                            <img src="assets/images/faces/19.jpg"
+                                                                            <img src="<?php echo base_url('') ?>assets/images/faces/19.jpg"
                                                                                 alt="avtar img holder" width="30" height="30">
                                                                         </div>
                                                                     </div>
@@ -1305,13 +1305,13 @@
                                                                         <label class="sidebar-label">Attached Files</label>
                                                                         <ul class="list-unstyled mb-0">
                                                                             <li class="cursor-pointer pb-25">
-                                                                                <img src="../../../app-assets/images/icon/psd.png"
+                                                                                <img src="<?php echo base_url('') ?>../../../app-assets/images/icon/psd.png"
                                                                                     alt="psd.png" height="30">
                                                                                 <small
                                                                                     class="text-muted ms-1 attchement-text">uikit-design.psd</small>
                                                                             </li>
                                                                             <li class="cursor-pointer">
-                                                                                <img src="../../../app-assets/images/icon/sketch.png"
+                                                                                <img src="<?php echo base_url('') ?>../../../app-assets/images/icon/sketch.png"
                                                                                     alt="sketch.png" height="30">
                                                                                 <small
                                                                                     class="text-muted ms-1 attchement-text">uikit-design.sketch</small>
@@ -1329,7 +1329,7 @@
                                                                 <div class="collapse-title media">
                                                                     <div class="pr-1">
                                                                         <div class="avatar mr-75">
-                                                                            <img src="assets/images/faces/18.jpg"
+                                                                            <img src="<?php echo base_url('') ?>assets/images/faces/18.jpg"
                                                                                 alt="avtar img holder" width="30" height="30">
                                                                         </div>
                                                                     </div>
@@ -1346,7 +1346,7 @@
                                                                         <svg class="bi" width="1.5em" height="1.5em"
                                                                             fill="currentColor">
                                                                             <use
-                                                                                xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#star-fill" />
+                                                                                xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#star-fill" />
                                                                         </svg>
                                                                     </span>
                                                                     <div class="dropdown">
@@ -1401,13 +1401,13 @@
                                                                         <label class="sidebar-label">Attached Files</label>
                                                                         <ul class="list-unstyled mb-0">
                                                                             <li class="cursor-pointer pb-25">
-                                                                                <img src="../../../app-assets/images/icon/psd.png"
+                                                                                <img src="<?php echo base_url('') ?>../../../app-assets/images/icon/psd.png"
                                                                                     alt="psd.png" height="30">
                                                                                 <small
                                                                                     class="text-muted ms-1 attchement-text">uikit-design.psd</small>
                                                                             </li>
                                                                             <li class="cursor-pointer">
-                                                                                <img src="../../../app-assets/images/icon/sketch.png"
+                                                                                <img src="<?php echo base_url('') ?>../../../app-assets/images/icon/sketch.png"
                                                                                     alt="sketch.png" height="30">
                                                                                 <small
                                                                                     class="text-muted ms-1 attchement-text">uikit-design.sketch</small>

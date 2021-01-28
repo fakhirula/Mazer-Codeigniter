@@ -47,7 +47,7 @@
                                 <span class="avatar-content">AS</span>
                             </div>
                             <div class="avatar bg-warning me-3">
-                                <img src="assets/images/faces/1.jpg" alt="" srcset="">
+                                <img src="<?php echo base_url('') ?>assets/images/faces/1.jpg" alt="" srcset="">
                             </div>
                         </div>
                     </div>
@@ -68,13 +68,13 @@
                                 <span class="avatar-content">AS</span>
                             </div>
                             <div class="avatar me-3">
-                                <img src="assets/images/faces/1.jpg" alt="" srcset="">
+                                <img src="<?php echo base_url('') ?>assets/images/faces/1.jpg" alt="" srcset="">
                             </div>
                             <div class="avatar avatar-lg me-3">
-                                <img src="assets/images/faces/2.jpg" alt="" srcset="">
+                                <img src="<?php echo base_url('') ?>assets/images/faces/2.jpg" alt="" srcset="">
                             </div>
                             <div class="avatar avatar-xl me-3">
-                                <img src="assets/images/faces/3.jpg" alt="" srcset="">
+                                <img src="<?php echo base_url('') ?>assets/images/faces/3.jpg" alt="" srcset="">
                             </div>
                         </div>
                     </div>
@@ -94,7 +94,7 @@
                                 <span class="avatar-status bg-success"></span>
                             </div>
                             <div class="avatar bg-warning me-3">
-                                <img src="assets/images/faces/1.jpg" alt="" srcset="">
+                                <img src="<?php echo base_url('') ?>assets/images/faces/1.jpg" alt="" srcset="">
                                 <span class="avatar-status bg-danger"></span>
                             </div>
                         </div>

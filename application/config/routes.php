@@ -56,8 +56,8 @@ $route['translate_uri_dashes'] = FALSE;
 $route['admin'] = 'admin/Dashboard/index';
 $route['admin/application_chat'] = 'admin/Dashboard/application_chat';
 $route['admin/application_checkout'] = 'admin/Dashboard/application_checkout';
-$route['admin/application_email'] = 'admin/Dashboard/email';
-$route['admin/application_gallery'] = 'admin/Dashboard/gallery';
+$route['admin/application_email'] = 'admin/Dashboard/application_email';
+$route['admin/application_gallery'] = 'admin/Dashboard/application_gallery';
 
 $route['admin/auth_forgot_password'] = 'admin/Dashboard/auth_forgot_password';
 $route['admin/auth_login'] = 'admin/Dashboard/auth_login';

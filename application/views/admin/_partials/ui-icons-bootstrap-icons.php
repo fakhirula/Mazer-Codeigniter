@@ -42,7 +42,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#alarm-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#alarm-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -54,7 +54,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#alarm" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#alarm" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -66,7 +66,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#align-bottom" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#align-bottom" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -78,7 +78,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#align-center" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#align-center" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -90,7 +90,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#align-end" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#align-end" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -102,7 +102,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#align-middle" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#align-middle" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -114,7 +114,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#align-start" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#align-start" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -126,7 +126,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#align-top" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#align-top" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -138,7 +138,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#alt" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#alt" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -151,7 +151,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#app-indicator" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#app-indicator" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -164,7 +164,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#app" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#app" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -176,7 +176,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#archive-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#archive-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -188,7 +188,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#archive" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#archive" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -200,7 +200,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-90deg-down" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-90deg-down" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -212,7 +212,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-90deg-left" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-90deg-left" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -224,7 +224,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-90deg-right" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-90deg-right" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -236,7 +236,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-90deg-up" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-90deg-up" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -248,7 +248,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-bar-down" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-bar-down" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -260,7 +260,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-bar-left" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-bar-left" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -272,7 +272,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-bar-right" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-bar-right" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -284,7 +284,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-bar-up" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-bar-up" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -296,7 +296,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-clockwise" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-clockwise" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -308,7 +308,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-counterclockwise" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-counterclockwise" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -320,7 +320,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-down-circle-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-down-circle-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -332,7 +332,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-down-circle" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-down-circle" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -344,7 +344,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-down-left-circle-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-down-left-circle-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -356,7 +356,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-down-left-circle" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-down-left-circle" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -368,7 +368,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-down-left-square-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-down-left-square-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -380,7 +380,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-down-left-square" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-down-left-square" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -392,7 +392,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-down-left" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-down-left" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -404,7 +404,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-down-right-circle-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-down-right-circle-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -416,7 +416,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-down-right-circle" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-down-right-circle" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -428,7 +428,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-down-right-square-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-down-right-square-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -440,7 +440,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-down-right-square" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-down-right-square" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -452,7 +452,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-down-right" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-down-right" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -464,7 +464,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-down-short" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-down-short" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -476,7 +476,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-down-square-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-down-square-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -488,7 +488,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-down-square" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-down-square" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -500,7 +500,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-down-up" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-down-up" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -512,7 +512,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-down" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-down" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -524,7 +524,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-left-circle-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-left-circle-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -536,7 +536,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-left-circle" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-left-circle" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -548,7 +548,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-left-right" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-left-right" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -560,7 +560,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-left-short" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-left-short" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -572,7 +572,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-left-square-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-left-square-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -584,7 +584,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-left-square" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-left-square" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -596,7 +596,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-left" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-left" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -608,7 +608,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-repeat" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-repeat" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -620,7 +620,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-return-left" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-return-left" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -632,7 +632,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-return-right" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-return-right" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -644,7 +644,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-right-circle-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-right-circle-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -656,7 +656,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-right-circle" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-right-circle" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -668,7 +668,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-right-short" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-right-short" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -680,7 +680,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-right-square-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-right-square-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -692,7 +692,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-right-square" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-right-square" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -704,7 +704,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-right" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-right" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -716,7 +716,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-up-circle-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-up-circle-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -728,7 +728,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-up-circle" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-up-circle" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -740,7 +740,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-up-left-circle-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-up-left-circle-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -752,7 +752,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-up-left-circle" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-up-left-circle" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -764,7 +764,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-up-left-square-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-up-left-square-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -776,7 +776,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-up-left-square" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-up-left-square" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -788,7 +788,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-up-left" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-up-left" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -800,7 +800,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-up-right-circle-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-up-right-circle-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -812,7 +812,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-up-right-circle" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-up-right-circle" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -824,7 +824,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-up-right-square-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-up-right-square-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -836,7 +836,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-up-right-square" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-up-right-square" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -848,7 +848,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-up-right" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-up-right" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -860,7 +860,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-up-short" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-up-short" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -872,7 +872,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-up-square-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-up-square-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -884,7 +884,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-up-square" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-up-square" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -896,7 +896,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-up" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrow-up" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -908,7 +908,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrows-angle-contract" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrows-angle-contract" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -920,7 +920,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrows-angle-expand" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrows-angle-expand" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -932,7 +932,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrows-collapse" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrows-collapse" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -944,7 +944,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrows-expand" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrows-expand" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -956,7 +956,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrows-fullscreen" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrows-fullscreen" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -968,7 +968,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrows-move" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#arrows-move" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -981,7 +981,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#aspect-ratio-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#aspect-ratio-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -994,7 +994,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#aspect-ratio" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#aspect-ratio" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1006,7 +1006,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#asterisk" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#asterisk" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1018,7 +1018,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#at" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#at" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1030,7 +1030,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#award-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#award-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1042,7 +1042,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#award" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#award" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1054,7 +1054,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#back" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#back" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1066,7 +1066,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#backspace-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#backspace-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1078,7 +1078,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#backspace-reverse-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#backspace-reverse-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1090,7 +1090,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#backspace-reverse" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#backspace-reverse" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1102,7 +1102,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#backspace" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#backspace" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1115,7 +1115,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#badge-4k-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#badge-4k-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1128,7 +1128,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#badge-4k" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#badge-4k" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1141,7 +1141,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#badge-8k-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#badge-8k-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1154,7 +1154,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#badge-8k" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#badge-8k" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1166,7 +1166,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#badge-cc-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#badge-cc-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1178,7 +1178,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#badge-cc" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#badge-cc" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1191,7 +1191,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#badge-hd-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#badge-hd-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1204,7 +1204,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#badge-hd" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#badge-hd" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1216,7 +1216,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#badge-tm-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#badge-tm-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1228,7 +1228,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#badge-tm" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#badge-tm" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1240,7 +1240,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#badge-vo-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#badge-vo-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1252,7 +1252,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#badge-vo" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#badge-vo" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1265,7 +1265,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#bag-check" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#bag-check" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1278,7 +1278,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#bag-dash" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#bag-dash" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1291,7 +1291,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#bag-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#bag-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1304,7 +1304,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#bag-plus" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#bag-plus" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1317,7 +1317,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#bag" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#bag" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1329,7 +1329,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#bar-chart-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#bar-chart-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1341,7 +1341,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#bar-chart-line-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#bar-chart-line-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1353,7 +1353,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#bar-chart-line" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#bar-chart-line" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1365,7 +1365,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#bar-chart-steps" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#bar-chart-steps" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1377,7 +1377,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#bar-chart" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#bar-chart" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1390,7 +1390,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#basket-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#basket-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1403,7 +1403,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#basket" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#basket" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1416,7 +1416,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#basket2-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#basket2-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1429,7 +1429,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#basket2" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#basket2" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1442,7 +1442,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#basket3-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#basket3-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1455,7 +1455,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#basket3" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#basket3" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1467,7 +1467,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#battery-charging" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#battery-charging" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1479,7 +1479,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#battery-full" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#battery-full" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1491,7 +1491,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#battery-half" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#battery-half" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1503,7 +1503,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#battery" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#battery" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1515,7 +1515,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#bell-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#bell-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1527,7 +1527,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#bell" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#bell" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1539,7 +1539,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#bezier" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#bezier" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1551,7 +1551,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#bezier2" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#bezier2" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1563,7 +1563,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#bicycle" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#bicycle" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1575,7 +1575,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#binoculars-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#binoculars-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1587,7 +1587,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#binoculars" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#binoculars" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1599,7 +1599,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#blockquote-left" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#blockquote-left" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1611,7 +1611,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#blockquote-right" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#blockquote-right" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1623,7 +1623,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#book-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#book-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1635,7 +1635,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#book-half" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#book-half" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1647,7 +1647,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#book" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#book" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1659,7 +1659,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#bookmark-check" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#bookmark-check" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1671,7 +1671,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#bookmark-dash" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#bookmark-dash" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1683,7 +1683,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#bookmark-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#bookmark-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1695,7 +1695,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#bookmark-plus" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#bookmark-plus" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1707,7 +1707,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#bookmark" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#bookmark" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1719,7 +1719,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#bookmarks-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#bookmarks-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1731,7 +1731,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#bookmarks" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#bookmarks" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1743,7 +1743,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#bookshelf" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#bookshelf" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1755,7 +1755,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#bootstrap-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#bootstrap-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1767,7 +1767,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#bootstrap-reboot" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#bootstrap-reboot" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1779,7 +1779,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#bootstrap" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#bootstrap" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1791,7 +1791,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#border-style" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#border-style" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1803,7 +1803,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#border-width" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#border-width" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1816,7 +1816,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#bounding-box-circles" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#bounding-box-circles" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1829,7 +1829,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#bounding-box" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#bounding-box" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1841,7 +1841,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#box-arrow-down-left" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#box-arrow-down-left" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1853,7 +1853,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#box-arrow-down-right" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#box-arrow-down-right" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1865,7 +1865,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#box-arrow-down" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#box-arrow-down" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1877,7 +1877,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#box-arrow-in-down-left" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#box-arrow-in-down-left" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1889,7 +1889,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#box-arrow-in-down-right" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#box-arrow-in-down-right" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1901,7 +1901,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#box-arrow-in-down" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#box-arrow-in-down" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1913,7 +1913,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#box-arrow-in-left" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#box-arrow-in-left" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1925,7 +1925,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#box-arrow-in-right" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#box-arrow-in-right" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1937,7 +1937,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#box-arrow-in-up-left" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#box-arrow-in-up-left" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1949,7 +1949,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#box-arrow-in-up-right" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#box-arrow-in-up-right" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1961,7 +1961,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#box-arrow-in-up" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#box-arrow-in-up" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1973,7 +1973,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#box-arrow-left" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#box-arrow-left" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1985,7 +1985,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#box-arrow-right" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#box-arrow-right" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -1997,7 +1997,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#box-arrow-up-left" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#box-arrow-up-left" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2009,7 +2009,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#box-arrow-up-right" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#box-arrow-up-right" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2021,7 +2021,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#box-arrow-up" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#box-arrow-up" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2033,7 +2033,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#box-seam" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#box-seam" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2045,7 +2045,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#box" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#box" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2057,7 +2057,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#braces" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#braces" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2069,7 +2069,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#bricks" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#bricks" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2081,7 +2081,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#briefcase-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#briefcase-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2093,7 +2093,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#briefcase" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#briefcase" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2105,7 +2105,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#brightness-alt-high-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#brightness-alt-high-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2117,7 +2117,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#brightness-alt-high" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#brightness-alt-high" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2129,7 +2129,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#brightness-alt-low-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#brightness-alt-low-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2141,7 +2141,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#brightness-alt-low" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#brightness-alt-low" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2153,7 +2153,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#brightness-high-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#brightness-high-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2165,7 +2165,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#brightness-high" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#brightness-high" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2177,7 +2177,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#brightness-low-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#brightness-low-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2189,7 +2189,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#brightness-low" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#brightness-low" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2202,7 +2202,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#broadcast-pin" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#broadcast-pin" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2215,7 +2215,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#broadcast" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#broadcast" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2227,7 +2227,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#brush" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#brush" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2239,7 +2239,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#bucket-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#bucket-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2251,7 +2251,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#bucket" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#bucket" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2263,7 +2263,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#bug-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#bug-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2275,7 +2275,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#bug" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#bug" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2288,7 +2288,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#building" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#building" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2300,7 +2300,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#bullseye" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#bullseye" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2312,7 +2312,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#calculator-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#calculator-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2324,7 +2324,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#calculator" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#calculator" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2336,7 +2336,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar-check-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar-check-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2348,7 +2348,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar-check" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar-check" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2360,7 +2360,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar-date-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar-date-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2372,7 +2372,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar-date" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar-date" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2384,7 +2384,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar-day-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar-day-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2396,7 +2396,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar-day" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar-day" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2408,7 +2408,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar-event-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar-event-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2420,7 +2420,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar-event" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar-event" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2432,7 +2432,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2444,7 +2444,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar-minus-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar-minus-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2456,7 +2456,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar-minus" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar-minus" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2468,7 +2468,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar-month-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar-month-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2480,7 +2480,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar-month" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar-month" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2492,7 +2492,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar-plus-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar-plus-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2504,7 +2504,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar-plus" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar-plus" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2516,7 +2516,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar-range-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar-range-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2528,7 +2528,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar-range" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar-range" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2541,7 +2541,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar-week-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar-week-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2554,7 +2554,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar-week" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar-week" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2566,7 +2566,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2578,7 +2578,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar2-check-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar2-check-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2590,7 +2590,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar2-check" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar2-check" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2602,7 +2602,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar2-date-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar2-date-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2614,7 +2614,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar2-date" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar2-date" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2626,7 +2626,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar2-day-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar2-day-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2638,7 +2638,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar2-day" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar2-day" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2650,7 +2650,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar2-event-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar2-event-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2662,7 +2662,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar2-event" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar2-event" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2674,7 +2674,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar2-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar2-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2686,7 +2686,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar2-minus-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar2-minus-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2698,7 +2698,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar2-minus" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar2-minus" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2710,7 +2710,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar2-month-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar2-month-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2722,7 +2722,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar2-month" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar2-month" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2734,7 +2734,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar2-plus-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar2-plus-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2746,7 +2746,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar2-plus" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar2-plus" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2758,7 +2758,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar2-range-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar2-range-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2770,7 +2770,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar2-range" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar2-range" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2783,7 +2783,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar2-week-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar2-week-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2796,7 +2796,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar2-week" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar2-week" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2808,7 +2808,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar2" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar2" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2820,7 +2820,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar3-event-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar3-event-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2832,7 +2832,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar3-event" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar3-event" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2844,7 +2844,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar3-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar3-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2856,7 +2856,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar3-range-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar3-range-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2868,7 +2868,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar3-range" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar3-range" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2881,7 +2881,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar3-week-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar3-week-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2894,7 +2894,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar3-week" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar3-week" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2906,7 +2906,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar3" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar3" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2918,7 +2918,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar4-event" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar4-event" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2930,7 +2930,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar4-range" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar4-range" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2943,7 +2943,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar4-week" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar4-week" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2955,7 +2955,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar4" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#calendar4" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2967,7 +2967,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#camera-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#camera-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2979,7 +2979,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#camera-reels-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#camera-reels-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -2991,7 +2991,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#camera-reels" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#camera-reels" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3003,7 +3003,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#camera-video-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#camera-video-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3015,7 +3015,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#camera-video-off-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#camera-video-off-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3027,7 +3027,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#camera-video-off" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#camera-video-off" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3039,7 +3039,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#camera-video" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#camera-video" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3051,7 +3051,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#camera" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#camera" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3063,7 +3063,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#camera2" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#camera2" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3075,7 +3075,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#capslock-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#capslock-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3087,7 +3087,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#capslock" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#capslock" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3099,7 +3099,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#card-checklist" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#card-checklist" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3111,7 +3111,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#card-heading" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#card-heading" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3123,7 +3123,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#card-image" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#card-image" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3135,7 +3135,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#card-list" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#card-list" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3147,7 +3147,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#card-text" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#card-text" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3159,7 +3159,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#caret-down-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#caret-down-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3171,7 +3171,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#caret-down-square-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#caret-down-square-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3183,7 +3183,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#caret-down-square" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#caret-down-square" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3195,7 +3195,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#caret-down" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#caret-down" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3207,7 +3207,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#caret-left-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#caret-left-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3219,7 +3219,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#caret-left-square-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#caret-left-square-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3231,7 +3231,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#caret-left-square" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#caret-left-square" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3243,7 +3243,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#caret-left" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#caret-left" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3255,7 +3255,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#caret-right-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#caret-right-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3267,7 +3267,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#caret-right-square-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#caret-right-square-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3279,7 +3279,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#caret-right-square" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#caret-right-square" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3291,7 +3291,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#caret-right" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#caret-right" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3303,7 +3303,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#caret-up-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#caret-up-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3315,7 +3315,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#caret-up-square-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#caret-up-square-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3327,7 +3327,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#caret-up-square" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#caret-up-square" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3339,7 +3339,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#caret-up" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#caret-up" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3352,7 +3352,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#cart-check" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#cart-check" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3365,7 +3365,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#cart-dash" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#cart-dash" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3378,7 +3378,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#cart-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#cart-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3391,7 +3391,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#cart-plus" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#cart-plus" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3404,7 +3404,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#cart" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#cart" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3417,7 +3417,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#cart2" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#cart2" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3430,7 +3430,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#cart3" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#cart3" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3443,7 +3443,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#cart4" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#cart4" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3456,7 +3456,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#cash-stack" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#cash-stack" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3469,7 +3469,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#cash" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#cash" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3482,7 +3482,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#cast" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#cast" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3495,7 +3495,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#chat-dots-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#chat-dots-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3508,7 +3508,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#chat-dots" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#chat-dots" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3520,7 +3520,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#chat-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#chat-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3533,7 +3533,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#chat-left-dots-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#chat-left-dots-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3546,7 +3546,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#chat-left-dots" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#chat-left-dots" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3558,7 +3558,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#chat-left-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#chat-left-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3571,7 +3571,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#chat-left-quote-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#chat-left-quote-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3584,7 +3584,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#chat-left-quote" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#chat-left-quote" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3596,7 +3596,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#chat-left-text-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#chat-left-text-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3608,7 +3608,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#chat-left-text" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#chat-left-text" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3620,7 +3620,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#chat-left" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#chat-left" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3633,7 +3633,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#chat-quote-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#chat-quote-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3646,7 +3646,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#chat-quote" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#chat-quote" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3659,7 +3659,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#chat-right-dots-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#chat-right-dots-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3672,7 +3672,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#chat-right-dots" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#chat-right-dots" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3684,7 +3684,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#chat-right-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#chat-right-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3697,7 +3697,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#chat-right-quote-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#chat-right-quote-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3710,7 +3710,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#chat-right-quote" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#chat-right-quote" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3722,7 +3722,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#chat-right-text-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#chat-right-text-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3734,7 +3734,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#chat-right-text" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#chat-right-text" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3746,7 +3746,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#chat-right" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#chat-right" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3759,7 +3759,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#chat-square-dots-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#chat-square-dots-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3772,7 +3772,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#chat-square-dots" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#chat-square-dots" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3784,7 +3784,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#chat-square-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#chat-square-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3797,7 +3797,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#chat-square-quote-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#chat-square-quote-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3810,7 +3810,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#chat-square-quote" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#chat-square-quote" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3822,7 +3822,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#chat-square-text-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#chat-square-text-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3834,7 +3834,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#chat-square-text" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#chat-square-text" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3846,7 +3846,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#chat-square" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#chat-square" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3858,7 +3858,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#chat-text-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#chat-text-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3870,7 +3870,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#chat-text" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#chat-text" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3882,7 +3882,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#chat" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#chat" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3895,7 +3895,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#check-all" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#check-all" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3907,7 +3907,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#check-circle-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#check-circle-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3919,7 +3919,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#check-circle" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#check-circle" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3931,7 +3931,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#check-square-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#check-square-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3943,7 +3943,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#check-square" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#check-square" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3955,7 +3955,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#check" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#check" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3968,7 +3968,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#check2-all" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#check2-all" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3981,7 +3981,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#check2-circle" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#check2-circle" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -3994,7 +3994,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#check2-square" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#check2-square" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4007,7 +4007,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#check2" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#check2" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4019,7 +4019,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#chevron-bar-contract" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#chevron-bar-contract" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4031,7 +4031,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#chevron-bar-down" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#chevron-bar-down" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4043,7 +4043,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#chevron-bar-expand" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#chevron-bar-expand" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4055,7 +4055,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#chevron-bar-left" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#chevron-bar-left" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4067,7 +4067,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#chevron-bar-right" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#chevron-bar-right" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4079,7 +4079,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#chevron-bar-up" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#chevron-bar-up" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4091,7 +4091,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#chevron-compact-down" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#chevron-compact-down" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4103,7 +4103,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#chevron-compact-left" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#chevron-compact-left" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4115,7 +4115,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#chevron-compact-right" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#chevron-compact-right" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4127,7 +4127,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#chevron-compact-up" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#chevron-compact-up" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4139,7 +4139,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#chevron-contract" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#chevron-contract" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4151,7 +4151,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#chevron-double-down" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#chevron-double-down" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4163,7 +4163,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#chevron-double-left" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#chevron-double-left" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4175,7 +4175,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#chevron-double-right" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#chevron-double-right" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4187,7 +4187,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#chevron-double-up" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#chevron-double-up" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4199,7 +4199,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#chevron-down" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#chevron-down" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4211,7 +4211,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#chevron-expand" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#chevron-expand" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4223,7 +4223,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#chevron-left" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#chevron-left" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4235,7 +4235,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#chevron-right" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#chevron-right" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4247,7 +4247,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#chevron-up" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#chevron-up" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4259,7 +4259,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#circle-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#circle-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4271,7 +4271,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#circle-half" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#circle-half" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4284,7 +4284,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#circle-square" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#circle-square" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4296,7 +4296,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#circle" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#circle" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4308,7 +4308,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#clipboard-check" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#clipboard-check" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4321,7 +4321,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#clipboard-data" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#clipboard-data" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4333,7 +4333,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#clipboard-minus" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#clipboard-minus" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4345,7 +4345,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#clipboard-plus" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#clipboard-plus" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4357,7 +4357,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#clipboard" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#clipboard" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4369,7 +4369,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#clock-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#clock-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4381,7 +4381,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#clock-history" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#clock-history" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4393,7 +4393,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#clock" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#clock" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4405,7 +4405,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#cloud-arrow-down-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#cloud-arrow-down-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4417,7 +4417,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#cloud-arrow-down" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#cloud-arrow-down" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4429,7 +4429,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#cloud-arrow-up-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#cloud-arrow-up-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4441,7 +4441,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#cloud-arrow-up" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#cloud-arrow-up" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4453,7 +4453,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#cloud-check-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#cloud-check-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4465,7 +4465,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#cloud-check" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#cloud-check" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4477,7 +4477,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#cloud-download-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#cloud-download-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4489,7 +4489,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#cloud-download" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#cloud-download" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4501,7 +4501,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#cloud-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#cloud-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4513,7 +4513,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#cloud-minus-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#cloud-minus-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4525,7 +4525,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#cloud-minus" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#cloud-minus" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4537,7 +4537,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#cloud-plus-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#cloud-plus-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4549,7 +4549,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#cloud-plus" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#cloud-plus" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4561,7 +4561,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#cloud-slash-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#cloud-slash-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4573,7 +4573,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#cloud-slash" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#cloud-slash" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4585,7 +4585,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#cloud-upload-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#cloud-upload-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4597,7 +4597,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#cloud-upload" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#cloud-upload" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4609,7 +4609,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#cloud" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#cloud" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4621,7 +4621,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#code-slash" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#code-slash" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4633,7 +4633,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#code-square" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#code-square" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4645,7 +4645,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#code" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#code" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4657,7 +4657,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#collection-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#collection-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4669,7 +4669,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#collection-play-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#collection-play-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4681,7 +4681,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#collection-play" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#collection-play" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4693,7 +4693,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#collection" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#collection" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4705,7 +4705,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#columns-gap" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#columns-gap" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4717,7 +4717,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#columns" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#columns" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4729,7 +4729,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#command" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#command" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4741,7 +4741,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#compass" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#compass" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4754,7 +4754,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#cone-striped" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#cone-striped" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4767,7 +4767,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#cone" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#cone" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4779,7 +4779,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#controller" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#controller" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4791,7 +4791,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#cpu-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#cpu-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4803,7 +4803,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#cpu" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#cpu" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4815,7 +4815,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#credit-card-2-back-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#credit-card-2-back-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4827,7 +4827,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#credit-card-2-back" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#credit-card-2-back" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4839,7 +4839,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#credit-card-2-front-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#credit-card-2-front-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4851,7 +4851,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#credit-card-2-front" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#credit-card-2-front" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4863,7 +4863,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#credit-card-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#credit-card-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4875,7 +4875,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#credit-card" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#credit-card" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4887,7 +4887,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#crop" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#crop" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4899,7 +4899,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#cup-straw" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#cup-straw" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4911,7 +4911,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#cup" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#cup" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4923,7 +4923,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#cursor-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#cursor-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4935,7 +4935,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#cursor-text" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#cursor-text" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4947,7 +4947,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#cursor" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#cursor" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4959,7 +4959,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#dash-circle-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#dash-circle-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4971,7 +4971,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#dash-circle" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#dash-circle" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4983,7 +4983,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#dash-square-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#dash-square-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -4995,7 +4995,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#dash-square" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#dash-square" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5007,7 +5007,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#dash" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#dash" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5020,7 +5020,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#diagram-2-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#diagram-2-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5033,7 +5033,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#diagram-2" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#diagram-2" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5046,7 +5046,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#diagram-3-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#diagram-3-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5059,7 +5059,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#diagram-3" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#diagram-3" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5071,7 +5071,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#diamond-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#diamond-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5083,7 +5083,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#diamond-half" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#diamond-half" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5095,7 +5095,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#diamond" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#diamond" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5108,7 +5108,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#dice-1-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#dice-1-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5121,7 +5121,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#dice-1" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#dice-1" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5134,7 +5134,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#dice-2-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#dice-2-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5147,7 +5147,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#dice-2" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#dice-2" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5160,7 +5160,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#dice-3-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#dice-3-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5173,7 +5173,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#dice-3" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#dice-3" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5186,7 +5186,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#dice-4-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#dice-4-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5199,7 +5199,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#dice-4" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#dice-4" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5212,7 +5212,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#dice-5-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#dice-5-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5225,7 +5225,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#dice-5" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#dice-5" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5238,7 +5238,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#dice-6-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#dice-6-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5251,7 +5251,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#dice-6" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#dice-6" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5263,7 +5263,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#display-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#display-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5275,7 +5275,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#display" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#display" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5287,7 +5287,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#distribute-horizontal" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#distribute-horizontal" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5299,7 +5299,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#distribute-vertical" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#distribute-vertical" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5311,7 +5311,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#door-closed-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#door-closed-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5323,7 +5323,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#door-closed" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#door-closed" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5335,7 +5335,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#door-open-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#door-open-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5347,7 +5347,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#door-open" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#door-open" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5359,7 +5359,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#dot" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#dot" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5371,7 +5371,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#download" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#download" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5384,7 +5384,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#droplet-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#droplet-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5397,7 +5397,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#droplet-half" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#droplet-half" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5410,7 +5410,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#droplet" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#droplet" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5422,7 +5422,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#earbuds" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#earbuds" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5434,7 +5434,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#easel-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#easel-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5446,7 +5446,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#easel" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#easel" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5458,7 +5458,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#egg-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#egg-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5470,7 +5470,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#egg-fried" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#egg-fried" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5482,7 +5482,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#egg" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#egg" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5494,7 +5494,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#eject-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#eject-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5506,7 +5506,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#eject" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#eject" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5518,7 +5518,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#emoji-angry" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#emoji-angry" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5530,7 +5530,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#emoji-dizzy" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#emoji-dizzy" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5543,7 +5543,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#emoji-expressionless" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#emoji-expressionless" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5555,7 +5555,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#emoji-frown" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#emoji-frown" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5567,7 +5567,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#emoji-laughing" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#emoji-laughing" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5579,7 +5579,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#emoji-neutral" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#emoji-neutral" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5591,7 +5591,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#emoji-smile-upside-down" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#emoji-smile-upside-down" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5603,7 +5603,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#emoji-smile" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#emoji-smile" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5615,7 +5615,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#emoji-sunglasses" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#emoji-sunglasses" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5627,7 +5627,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#envelope-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#envelope-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5639,7 +5639,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#envelope-open-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#envelope-open-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5651,7 +5651,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#envelope-open" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#envelope-open" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5663,7 +5663,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#envelope" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#envelope" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5675,7 +5675,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#exclamation-circle-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#exclamation-circle-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5687,7 +5687,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#exclamation-circle" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#exclamation-circle" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5699,7 +5699,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#exclamation-diamond-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#exclamation-diamond-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5711,7 +5711,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#exclamation-diamond" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#exclamation-diamond" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5723,7 +5723,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#exclamation-octagon-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#exclamation-octagon-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5735,7 +5735,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#exclamation-octagon" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#exclamation-octagon" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5747,7 +5747,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#exclamation-square-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#exclamation-square-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5759,7 +5759,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#exclamation-square" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#exclamation-square" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5771,7 +5771,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#exclamation-triangle-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#exclamation-triangle-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5783,7 +5783,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#exclamation-triangle" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#exclamation-triangle" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5795,7 +5795,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#exclamation" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#exclamation" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5808,7 +5808,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#exclude" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#exclude" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5820,7 +5820,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#eye-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#eye-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5832,7 +5832,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#eye-slash-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#eye-slash-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5844,7 +5844,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#eye-slash" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#eye-slash" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5856,7 +5856,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#eye" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#eye" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5869,7 +5869,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#eyeglasses" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#eyeglasses" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5881,7 +5881,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-arrow-down-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-arrow-down-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5893,7 +5893,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-arrow-down" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-arrow-down" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5905,7 +5905,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-arrow-up-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-arrow-up-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5917,7 +5917,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-arrow-up" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-arrow-up" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5930,7 +5930,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-binary-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-binary-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5943,7 +5943,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-binary" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-binary" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5955,7 +5955,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-break-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-break-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5967,7 +5967,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-break" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-break" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5980,7 +5980,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-check-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-check-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -5993,7 +5993,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-check" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-check" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6006,7 +6006,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-code-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-code-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6019,7 +6019,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-code" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-code" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6032,7 +6032,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-diff-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-diff-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6045,7 +6045,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-diff" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-diff" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6057,7 +6057,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-earmark-arrow-down" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-earmark-arrow-down" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6069,7 +6069,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-earmark-arrow-up-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-earmark-arrow-up-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6081,7 +6081,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-earmark-arrow-up" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-earmark-arrow-up" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6094,7 +6094,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-earmark-binary-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-earmark-binary-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6107,7 +6107,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-earmark-binary" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-earmark-binary" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6119,7 +6119,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-earmark-break-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-earmark-break-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6131,7 +6131,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-earmark-break" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-earmark-break" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6144,7 +6144,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-earmark-check-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-earmark-check-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6157,7 +6157,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-earmark-check" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-earmark-check" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6170,7 +6170,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-earmark-code-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-earmark-code-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6183,7 +6183,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-earmark-code" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-earmark-code" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6196,7 +6196,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-earmark-diff-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-earmark-diff-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6209,7 +6209,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-earmark-diff" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-earmark-diff" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6221,7 +6221,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-earmark-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-earmark-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6234,7 +6234,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-earmark-medical-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-earmark-medical-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6247,7 +6247,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-earmark-medical" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-earmark-medical" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6260,7 +6260,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-earmark-minus-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-earmark-minus-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6273,7 +6273,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-earmark-minus" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-earmark-minus" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6285,7 +6285,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-earmark-plus-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-earmark-plus-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6297,7 +6297,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-earmark-plus" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-earmark-plus" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6309,7 +6309,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-earmark-ruled-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-earmark-ruled-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6321,7 +6321,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-earmark-ruled" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-earmark-ruled" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6333,7 +6333,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-earmark-spreadsheet-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-earmark-spreadsheet-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6345,7 +6345,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-earmark-spreadsheet" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-earmark-spreadsheet" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6357,7 +6357,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-earmark-text-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-earmark-text-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6369,7 +6369,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-earmark-text" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-earmark-text" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6382,7 +6382,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-earmark-zip-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-earmark-zip-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6395,7 +6395,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-earmark-zip" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-earmark-zip" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6407,7 +6407,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-earmark" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-earmark" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6419,7 +6419,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6432,7 +6432,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-medical-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-medical-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6445,7 +6445,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-medical" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-medical" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6458,7 +6458,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-minus-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-minus-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6471,7 +6471,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-minus" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-minus" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6484,7 +6484,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-music-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-music-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6497,7 +6497,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-music" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-music" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6510,7 +6510,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-person-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-person-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6523,7 +6523,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-person" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-person" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6535,7 +6535,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-plus-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-plus-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6547,7 +6547,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-plus" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-plus" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6559,7 +6559,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-post-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-post-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6571,7 +6571,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-post" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-post" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6583,7 +6583,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-richtext-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-richtext-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6595,7 +6595,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-richtext" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-richtext" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6607,7 +6607,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-ruled-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-ruled-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6619,7 +6619,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-ruled" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-ruled" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6631,7 +6631,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-spreadsheet-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-spreadsheet-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6643,7 +6643,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-spreadsheet" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-spreadsheet" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6655,7 +6655,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-text-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-text-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6667,7 +6667,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-text" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-text" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6680,7 +6680,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-zip-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-zip-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6693,7 +6693,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-zip" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#file-zip" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6705,7 +6705,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#file" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#file" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6717,7 +6717,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#files-alt" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#files-alt" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6729,7 +6729,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#files" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#files" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6741,7 +6741,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#film" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#film" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6753,7 +6753,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#filter-circle-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#filter-circle-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6765,7 +6765,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#filter-circle" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#filter-circle" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6777,7 +6777,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#filter-left" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#filter-left" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6789,7 +6789,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#filter-right" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#filter-right" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6801,7 +6801,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#filter-square-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#filter-square-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6813,7 +6813,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#filter-square" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#filter-square" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6825,7 +6825,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#filter" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#filter" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6837,7 +6837,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#flag-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#flag-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6849,7 +6849,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#flag" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#flag" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6861,7 +6861,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#flower1" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#flower1" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6873,7 +6873,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#flower2" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#flower2" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6885,7 +6885,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#flower3" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#flower3" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6897,7 +6897,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#folder-check" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#folder-check" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6909,7 +6909,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#folder-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#folder-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6921,7 +6921,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#folder-minus" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#folder-minus" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6933,7 +6933,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#folder-plus" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#folder-plus" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6945,7 +6945,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#folder-symlink-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#folder-symlink-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6957,7 +6957,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#folder-symlink" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#folder-symlink" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6969,7 +6969,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#folder" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#folder" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6981,7 +6981,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#folder2-open" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#folder2-open" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -6993,7 +6993,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#folder2" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#folder2" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7005,7 +7005,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#fonts" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#fonts" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7017,7 +7017,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#forward-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#forward-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7029,7 +7029,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#forward" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#forward" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7041,7 +7041,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#front" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#front" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7053,7 +7053,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#fullscreen-exit" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#fullscreen-exit" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7065,7 +7065,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#fullscreen" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#fullscreen" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7077,7 +7077,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#funnel-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#funnel-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7089,7 +7089,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#funnel" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#funnel" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7101,7 +7101,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#gear-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#gear-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7113,7 +7113,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#gear-wide-connected" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#gear-wide-connected" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7125,7 +7125,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#gear-wide" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#gear-wide" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7137,7 +7137,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#gear" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#gear" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7149,7 +7149,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#gem" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#gem" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7161,7 +7161,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#geo-alt" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#geo-alt" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7173,7 +7173,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#geo" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#geo" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7185,7 +7185,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#gift-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#gift-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7197,7 +7197,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#gift" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#gift" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7210,7 +7210,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#globe" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#globe" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7223,7 +7223,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#globe2" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#globe2" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7235,7 +7235,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#graph-down" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#graph-down" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7247,7 +7247,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#graph-up" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#graph-up" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7259,7 +7259,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#grid-1x2-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#grid-1x2-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7271,7 +7271,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#grid-1x2" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#grid-1x2" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7283,7 +7283,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#grid-3x2-gap-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#grid-3x2-gap-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7295,7 +7295,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#grid-3x2-gap" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#grid-3x2-gap" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7307,7 +7307,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#grid-3x2" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#grid-3x2" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7319,7 +7319,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#grid-3x3-gap-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#grid-3x3-gap-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7331,7 +7331,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#grid-3x3-gap" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#grid-3x3-gap" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7343,7 +7343,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#grid-3x3" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#grid-3x3" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7355,7 +7355,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#grid-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#grid-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7367,7 +7367,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#grid" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#grid" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7379,7 +7379,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#grip-horizontal" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#grip-horizontal" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7391,7 +7391,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#grip-vertical" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#grip-vertical" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7403,7 +7403,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#hammer" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#hammer" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7415,7 +7415,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#hand-index-thumb" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#hand-index-thumb" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7427,7 +7427,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#hand-index" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#hand-index" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7440,7 +7440,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#hand-thumbs-down" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#hand-thumbs-down" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7453,7 +7453,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#hand-thumbs-up" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#hand-thumbs-up" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7465,7 +7465,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#handbag-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#handbag-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7477,7 +7477,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#handbag" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#handbag" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7489,7 +7489,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#hash" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#hash" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7502,7 +7502,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#hdd-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#hdd-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7515,7 +7515,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#hdd-network-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#hdd-network-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7528,7 +7528,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#hdd-network" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#hdd-network" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7541,7 +7541,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#hdd-rack-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#hdd-rack-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7554,7 +7554,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#hdd-rack" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#hdd-rack" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7567,7 +7567,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#hdd-stack-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#hdd-stack-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7580,7 +7580,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#hdd-stack" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#hdd-stack" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7593,7 +7593,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#hdd" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#hdd" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7605,7 +7605,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#headphones" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#headphones" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7617,7 +7617,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#headset" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#headset" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7629,7 +7629,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#heart-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#heart-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7641,7 +7641,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#heart-half" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#heart-half" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7653,7 +7653,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#heart" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#heart" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7665,7 +7665,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#heptagon-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#heptagon-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7677,7 +7677,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#heptagon-half" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#heptagon-half" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7689,7 +7689,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#heptagon" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#heptagon" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7701,7 +7701,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#hexagon-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#hexagon-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7713,7 +7713,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#hexagon-half" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#hexagon-half" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7725,7 +7725,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#hexagon" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#hexagon" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7737,7 +7737,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#hourglass-bottom" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#hourglass-bottom" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7749,7 +7749,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#hourglass-split" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#hourglass-split" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7761,7 +7761,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#hourglass-top" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#hourglass-top" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7773,7 +7773,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#hourglass" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#hourglass" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7785,7 +7785,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#house-door-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#house-door-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7797,7 +7797,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#house-door" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#house-door" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7809,7 +7809,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#house-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#house-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7821,7 +7821,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#house" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#house" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7833,7 +7833,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#hr" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#hr" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7845,7 +7845,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#image-alt" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#image-alt" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7857,7 +7857,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#image-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#image-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7869,7 +7869,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#image" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#image" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7881,7 +7881,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#images" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#images" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7893,7 +7893,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#inbox-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#inbox-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7905,7 +7905,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#inbox" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#inbox" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7917,7 +7917,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#inboxes-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#inboxes-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7929,7 +7929,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#inboxes" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#inboxes" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7941,7 +7941,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#info-circle-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#info-circle-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7953,7 +7953,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#info-circle" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#info-circle" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7965,7 +7965,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#info-square-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#info-square-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7977,7 +7977,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#info-square" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#info-square" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -7989,7 +7989,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#info" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#info" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8001,7 +8001,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#input-cursor-text" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#input-cursor-text" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8013,7 +8013,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#input-cursor" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#input-cursor" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8026,7 +8026,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#intersect" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#intersect" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8039,7 +8039,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#journal-album" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#journal-album" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8052,7 +8052,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#journal-arrow-down" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#journal-arrow-down" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8065,7 +8065,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#journal-arrow-up" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#journal-arrow-up" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8078,7 +8078,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#journal-check" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#journal-check" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8091,7 +8091,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#journal-code" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#journal-code" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8104,7 +8104,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#journal-medical" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#journal-medical" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8117,7 +8117,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#journal-minus" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#journal-minus" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8130,7 +8130,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#journal-plus" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#journal-plus" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8143,7 +8143,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#journal-richtext" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#journal-richtext" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8156,7 +8156,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#journal-text" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#journal-text" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8169,7 +8169,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#journal" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#journal" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8182,7 +8182,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#journals" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#journals" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8194,7 +8194,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#joystick" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#joystick" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8207,7 +8207,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#justify-left" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#justify-left" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8220,7 +8220,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#justify-right" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#justify-right" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8233,7 +8233,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#justify" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#justify" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8245,7 +8245,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#kanban-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#kanban-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8257,7 +8257,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#kanban" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#kanban" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8269,7 +8269,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#key-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#key-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8281,7 +8281,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#key" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#key" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8293,7 +8293,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#keyboard-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#keyboard-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8305,7 +8305,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#keyboard" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#keyboard" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8317,7 +8317,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#ladder" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#ladder" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8329,7 +8329,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#lamp-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#lamp-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8341,7 +8341,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#lamp" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#lamp" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8353,7 +8353,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#laptop-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#laptop-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8365,7 +8365,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#laptop" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#laptop" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8377,7 +8377,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#layers-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#layers-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8389,7 +8389,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#layers-half" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#layers-half" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8401,7 +8401,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#layers" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#layers" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8413,7 +8413,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#layout-sidebar-inset-reverse" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#layout-sidebar-inset-reverse" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8425,7 +8425,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#layout-sidebar-inset" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#layout-sidebar-inset" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8437,7 +8437,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#layout-sidebar-reverse" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#layout-sidebar-reverse" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8449,7 +8449,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#layout-sidebar" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#layout-sidebar" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8461,7 +8461,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#layout-split" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#layout-split" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8473,7 +8473,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#layout-text-sidebar-reverse" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#layout-text-sidebar-reverse" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8485,7 +8485,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#layout-text-sidebar" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#layout-text-sidebar" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8497,7 +8497,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#layout-text-window-reverse" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#layout-text-window-reverse" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8509,7 +8509,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#layout-text-window" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#layout-text-window" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8521,7 +8521,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#layout-three-columns" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#layout-three-columns" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8533,7 +8533,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#layout-wtf" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#layout-wtf" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8545,7 +8545,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#life-preserver" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#life-preserver" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8558,7 +8558,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#lightning-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#lightning-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8571,7 +8571,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#lightning" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#lightning" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8583,7 +8583,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#link-45deg" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#link-45deg" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8595,7 +8595,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#link" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#link" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8608,7 +8608,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#list-check" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#list-check" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8621,7 +8621,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#list-nested" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#list-nested" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8634,7 +8634,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#list-ol" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#list-ol" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8646,7 +8646,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#list-stars" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#list-stars" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8659,7 +8659,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#list-task" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#list-task" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8672,7 +8672,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#list-ul" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#list-ul" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8685,7 +8685,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#list" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#list" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8697,7 +8697,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#lock-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#lock-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8709,7 +8709,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#lock" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#lock" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8721,7 +8721,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#mailbox" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#mailbox" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8733,7 +8733,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#mailbox2" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#mailbox2" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8745,7 +8745,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#map" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#map" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8758,7 +8758,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#markdown-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#markdown-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8771,7 +8771,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#markdown" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#markdown" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8784,7 +8784,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#menu-app-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#menu-app-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8797,7 +8797,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#menu-app" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#menu-app" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8810,7 +8810,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#menu-button-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#menu-button-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8823,7 +8823,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#menu-button-wide-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#menu-button-wide-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8836,7 +8836,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#menu-button-wide" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#menu-button-wide" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8849,7 +8849,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#menu-button" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#menu-button" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8862,7 +8862,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#menu-down" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#menu-down" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8875,7 +8875,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#menu-up" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#menu-up" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8888,7 +8888,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#mic-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#mic-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8901,7 +8901,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#mic-mute-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#mic-mute-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8914,7 +8914,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#mic-mute" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#mic-mute" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8927,7 +8927,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#mic" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#mic" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8939,7 +8939,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#minecart-loaded" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#minecart-loaded" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8951,7 +8951,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#minecart" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#minecart" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8963,7 +8963,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#moon" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#moon" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8975,7 +8975,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#mouse" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#mouse" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8987,7 +8987,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#mouse2" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#mouse2" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -8999,7 +8999,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#mouse3" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#mouse3" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9011,7 +9011,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#music-note-beamed" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#music-note-beamed" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9024,7 +9024,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#music-note-list" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#music-note-list" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9036,7 +9036,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#music-note" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#music-note" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9048,7 +9048,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#music-player-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#music-player-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9060,7 +9060,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#music-player" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#music-player" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9072,7 +9072,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#newspaper" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#newspaper" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9084,7 +9084,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#node-minus-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#node-minus-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9096,7 +9096,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#node-minus" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#node-minus" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9108,7 +9108,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#node-plus-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#node-plus-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9120,7 +9120,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#node-plus" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#node-plus" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9132,7 +9132,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#nut-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#nut-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9144,7 +9144,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#nut" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#nut" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9156,7 +9156,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#octagon-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#octagon-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9168,7 +9168,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#octagon-half" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#octagon-half" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9180,7 +9180,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#octagon" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#octagon" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9192,7 +9192,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#option" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#option" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9204,7 +9204,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#outlet" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#outlet" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9216,7 +9216,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#paperclip" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#paperclip" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9229,7 +9229,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#paragraph" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#paragraph" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9242,7 +9242,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#patch-check-fll" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#patch-check-fll" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9255,7 +9255,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#patch-check" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#patch-check" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9267,7 +9267,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#patch-exclamation-fll" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#patch-exclamation-fll" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9279,7 +9279,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#patch-exclamation" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#patch-exclamation" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9291,7 +9291,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#patch-minus-fll" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#patch-minus-fll" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9303,7 +9303,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#patch-minus" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#patch-minus" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9315,7 +9315,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#patch-plus-fll" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#patch-plus-fll" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9327,7 +9327,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#patch-plus" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#patch-plus" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9339,7 +9339,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#patch-question-fll" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#patch-question-fll" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9351,7 +9351,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#patch-question" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#patch-question" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9363,7 +9363,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#pause-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#pause-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9375,7 +9375,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#pause" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#pause" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9387,7 +9387,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#peace-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#peace-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9399,7 +9399,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#peace" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#peace" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9411,7 +9411,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#pen" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#pen" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9423,7 +9423,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#pencil-square" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#pencil-square" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9435,7 +9435,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#pencil" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#pencil" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9447,7 +9447,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#pentagon-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#pentagon-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9459,7 +9459,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#pentagon-half" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#pentagon-half" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9471,7 +9471,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#pentagon" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#pentagon" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9484,7 +9484,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#people-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#people-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9497,7 +9497,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#people" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#people" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9509,7 +9509,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#percent" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#percent" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9522,7 +9522,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#person-badge-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#person-badge-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9535,7 +9535,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#person-badge" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#person-badge" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9548,7 +9548,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#person-bounding-box" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#person-bounding-box" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9561,7 +9561,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#person-check-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#person-check-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9574,7 +9574,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#person-check" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#person-check" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9587,7 +9587,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#person-circle" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#person-circle" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9600,7 +9600,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#person-dash-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#person-dash-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9613,7 +9613,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#person-dash" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#person-dash" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9625,7 +9625,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#person-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#person-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9638,7 +9638,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#person-lines-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#person-lines-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9651,7 +9651,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#person-plus-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#person-plus-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9664,7 +9664,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#person-plus" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#person-plus" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9676,7 +9676,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#person-square" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#person-square" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9688,7 +9688,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#person" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#person" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9700,7 +9700,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#phone-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#phone-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9712,7 +9712,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#phone-landscape-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#phone-landscape-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9724,7 +9724,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#phone-landscape" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#phone-landscape" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9736,7 +9736,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#phone" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#phone" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9748,7 +9748,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#pie-chart-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#pie-chart-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9760,7 +9760,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#pie-chart" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#pie-chart" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9773,7 +9773,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#pip-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#pip-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9786,7 +9786,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#pip" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#pip" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9798,7 +9798,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#play-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#play-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9810,7 +9810,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#play" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#play" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9822,7 +9822,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#plug" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#plug" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9834,7 +9834,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#plus-circle-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#plus-circle-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9846,7 +9846,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#plus-circle" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#plus-circle" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9858,7 +9858,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#plus-square-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#plus-square-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9870,7 +9870,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#plus-square" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#plus-square" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9882,7 +9882,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#plus" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#plus" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9894,7 +9894,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#power" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#power" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9906,7 +9906,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#printer-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#printer-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9918,7 +9918,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#printer" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#printer" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9930,7 +9930,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#puzzle-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#puzzle-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9942,7 +9942,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#puzzle" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#puzzle" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9954,7 +9954,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#question-circle-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#question-circle-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9966,7 +9966,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#question-circle" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#question-circle" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9978,7 +9978,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#question-diamond-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#question-diamond-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -9990,7 +9990,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#question-diamond" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#question-diamond" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10002,7 +10002,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#question-octagon-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#question-octagon-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10014,7 +10014,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#question-octagon" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#question-octagon" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10026,7 +10026,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#question-square-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#question-square-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10038,7 +10038,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#question-square" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#question-square" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10050,7 +10050,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#question" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#question" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10063,7 +10063,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#receipt-cutoff" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#receipt-cutoff" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10076,7 +10076,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#receipt" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#receipt" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10089,7 +10089,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#reception-0" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#reception-0" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10102,7 +10102,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#reception-1" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#reception-1" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10115,7 +10115,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#reception-2" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#reception-2" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10128,7 +10128,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#reception-3" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#reception-3" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10141,7 +10141,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#reception-4" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#reception-4" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10153,7 +10153,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#reply-all-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#reply-all-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10165,7 +10165,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#reply-all" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#reply-all" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10177,7 +10177,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#reply-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#reply-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10189,7 +10189,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#reply" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#reply" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10201,7 +10201,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#rss-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#rss-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10213,7 +10213,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#rss" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#rss" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10225,7 +10225,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#screwdriver" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#screwdriver" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10237,7 +10237,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#search" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#search" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10249,7 +10249,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#segmented-nav" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#segmented-nav" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10261,7 +10261,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#server" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#server" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10273,7 +10273,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#share-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#share-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10285,7 +10285,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#share" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#share" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10297,7 +10297,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#shield-check" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#shield-check" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10309,7 +10309,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#shield-exclamation" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#shield-exclamation" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10321,7 +10321,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#shield-fill-check" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#shield-fill-check" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10333,7 +10333,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#shield-fill-exclamation" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#shield-fill-exclamation" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10345,7 +10345,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#shield-fill-minus" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#shield-fill-minus" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10357,7 +10357,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#shield-fill-plus" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#shield-fill-plus" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10369,7 +10369,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#shield-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#shield-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10381,7 +10381,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#shield-lock-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#shield-lock-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10393,7 +10393,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#shield-lock" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#shield-lock" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10405,7 +10405,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#shield-minus" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#shield-minus" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10417,7 +10417,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#shield-plus" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#shield-plus" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10429,7 +10429,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#shield-shaded" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#shield-shaded" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10441,7 +10441,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#shield-slash-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#shield-slash-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10453,7 +10453,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#shield-slash" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#shield-slash" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10465,7 +10465,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#shield" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#shield" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10477,7 +10477,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#shift-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#shift-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10489,7 +10489,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#shift" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#shift" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10502,7 +10502,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#shop-window" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#shop-window" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10515,7 +10515,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#shop" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#shop" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10527,7 +10527,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#shuffle" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#shuffle" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10540,7 +10540,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#signpost-2-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#signpost-2-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10553,7 +10553,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#signpost-2" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#signpost-2" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10566,7 +10566,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#signpost-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#signpost-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10579,7 +10579,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#signpost-split-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#signpost-split-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10592,7 +10592,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#signpost-split" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#signpost-split" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10605,7 +10605,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#signpost" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#signpost" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10617,7 +10617,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#sim-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#sim-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10629,7 +10629,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#sim" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#sim" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10641,7 +10641,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#skip-backward-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#skip-backward-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10653,7 +10653,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#skip-backward" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#skip-backward" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10665,7 +10665,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#skip-end-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#skip-end-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10677,7 +10677,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#skip-end" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#skip-end" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10689,7 +10689,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#skip-forward-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#skip-forward-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10701,7 +10701,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#skip-forward" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#skip-forward" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10713,7 +10713,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#skip-start-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#skip-start-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10725,7 +10725,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#skip-start" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#skip-start" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10737,7 +10737,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#slash-circle-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#slash-circle-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10749,7 +10749,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#slash-circle" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#slash-circle" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10761,7 +10761,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#slash-square-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#slash-square-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10773,7 +10773,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#slash-square" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#slash-square" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10785,7 +10785,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#slash" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#slash" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10798,7 +10798,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#sliders" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#sliders" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10810,7 +10810,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#smartwatch" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#smartwatch" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10822,7 +10822,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#sort-alpha-down-alt" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#sort-alpha-down-alt" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10834,7 +10834,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#sort-alpha-down" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#sort-alpha-down" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10846,7 +10846,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#sort-alpha-up-alt" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#sort-alpha-up-alt" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10858,7 +10858,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#sort-alpha-up" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#sort-alpha-up" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10870,7 +10870,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#sort-down-alt" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#sort-down-alt" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10882,7 +10882,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#sort-down" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#sort-down" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10894,7 +10894,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#sort-numeric-down-alt" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#sort-numeric-down-alt" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10906,7 +10906,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#sort-numeric-down" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#sort-numeric-down" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10918,7 +10918,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#sort-numeric-up-alt" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#sort-numeric-up-alt" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10930,7 +10930,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#sort-numeric-up" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#sort-numeric-up" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10942,7 +10942,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#sort-up-alt" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#sort-up-alt" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10954,7 +10954,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#sort-up" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#sort-up" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10966,7 +10966,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#soundwave" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#soundwave" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10978,7 +10978,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#speaker" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#speaker" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -10990,7 +10990,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#spellcheck" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#spellcheck" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11002,7 +11002,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#square-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#square-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11014,7 +11014,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#square-half" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#square-half" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11026,7 +11026,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#square" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#square" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11038,7 +11038,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#star-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#star-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11050,7 +11050,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#star-half" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#star-half" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11062,7 +11062,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#star" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#star" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11074,7 +11074,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#stickies-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#stickies-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11086,7 +11086,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#stickies" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#stickies" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11098,7 +11098,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#sticky-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#sticky-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11110,7 +11110,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#sticky" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#sticky" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11122,7 +11122,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#stop-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#stop-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11134,7 +11134,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#stop" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#stop" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11147,7 +11147,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#stoplights-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#stoplights-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11160,7 +11160,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#stoplights" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#stoplights" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11172,7 +11172,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#stopwatch-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#stopwatch-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11184,7 +11184,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#stopwatch" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#stopwatch" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11197,7 +11197,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#subtract" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#subtract" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11210,7 +11210,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#suit-club-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#suit-club-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11223,7 +11223,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#suit-club" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#suit-club" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11236,7 +11236,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#suit-diamond-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#suit-diamond-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11249,7 +11249,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#suit-diamond" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#suit-diamond" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11262,7 +11262,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#suit-heart-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#suit-heart-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11275,7 +11275,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#suit-heart" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#suit-heart" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11288,7 +11288,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#suit-spade-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#suit-spade-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11301,7 +11301,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#suit-spade" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#suit-spade" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11313,7 +11313,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#sun" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#sun" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11325,7 +11325,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#sunglasses" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#sunglasses" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11337,7 +11337,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#table" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#table" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11349,7 +11349,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#tablet-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#tablet-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11361,7 +11361,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#tablet-landscape-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#tablet-landscape-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11373,7 +11373,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#tablet-landscape" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#tablet-landscape" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11385,7 +11385,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#tablet" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#tablet" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11397,7 +11397,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#tag-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#tag-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11409,7 +11409,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#tag" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#tag" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11421,7 +11421,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#tags-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#tags-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11433,7 +11433,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#tags" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#tags" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11445,7 +11445,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#telephone-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#telephone-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11457,7 +11457,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#telephone-forward-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#telephone-forward-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11469,7 +11469,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#telephone-forward" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#telephone-forward" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11481,7 +11481,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#telephone-inbound-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#telephone-inbound-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11493,7 +11493,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#telephone-inbound" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#telephone-inbound" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11505,7 +11505,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#telephone-minus-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#telephone-minus-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11517,7 +11517,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#telephone-minus" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#telephone-minus" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11529,7 +11529,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#telephone-outbound-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#telephone-outbound-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11541,7 +11541,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#telephone-outbound" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#telephone-outbound" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11553,7 +11553,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#telephone-plus-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#telephone-plus-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11565,7 +11565,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#telephone-plus" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#telephone-plus" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11577,7 +11577,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#telephone-x-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#telephone-x-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11589,7 +11589,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#telephone-x" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#telephone-x" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11601,7 +11601,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#telephone" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#telephone" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11614,7 +11614,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#terminal-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#terminal-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11627,7 +11627,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#terminal" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#terminal" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11640,7 +11640,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#text-center" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#text-center" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11653,7 +11653,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#text-indent-left" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#text-indent-left" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11666,7 +11666,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#text-indent-right" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#text-indent-right" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11679,7 +11679,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#text-left" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#text-left" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11692,7 +11692,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#text-right" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#text-right" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11704,7 +11704,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#textarea-resize" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#textarea-resize" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11716,7 +11716,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#textarea-t" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#textarea-t" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11728,7 +11728,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#textarea" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#textarea" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11740,7 +11740,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#thermometer-half" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#thermometer-half" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11752,7 +11752,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#thermometer" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#thermometer" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11764,7 +11764,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#three-dots-vertical" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#three-dots-vertical" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11776,7 +11776,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#three-dots" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#three-dots" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11788,7 +11788,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#toggle-off" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#toggle-off" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11800,7 +11800,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#toggle-on" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#toggle-on" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11812,7 +11812,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#toggle2-off" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#toggle2-off" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11824,7 +11824,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#toggle2-on" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#toggle2-on" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11836,7 +11836,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#toggles" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#toggles" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11848,7 +11848,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#toggles2" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#toggles2" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11860,7 +11860,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#tools" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#tools" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11872,7 +11872,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#trash-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#trash-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11884,7 +11884,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#trash" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#trash" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11896,7 +11896,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#trash2-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#trash2-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11908,7 +11908,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#trash2" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#trash2" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11920,7 +11920,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#tree-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#tree-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11932,7 +11932,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#tree" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#tree" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11944,7 +11944,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#triangle-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#triangle-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11956,7 +11956,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#triangle-half" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#triangle-half" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11968,7 +11968,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#triangle" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#triangle" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11980,7 +11980,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#trophy" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#trophy" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -11993,7 +11993,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#truck-flatbed" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#truck-flatbed" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -12006,7 +12006,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#truck" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#truck" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -12019,7 +12019,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#tv-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#tv-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -12032,7 +12032,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#tv" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#tv" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -12044,7 +12044,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#type-bold" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#type-bold" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -12056,7 +12056,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#type-h1" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#type-h1" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -12068,7 +12068,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#type-h2" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#type-h2" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -12080,7 +12080,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#type-h3" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#type-h3" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -12092,7 +12092,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#type-italic" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#type-italic" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -12104,7 +12104,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#type-strikethrough" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#type-strikethrough" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -12116,7 +12116,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#type-underline" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#type-underline" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -12128,7 +12128,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#type" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#type" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -12140,7 +12140,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#ui-checks" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#ui-checks" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -12152,7 +12152,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#ui-radios" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#ui-radios" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -12165,7 +12165,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#union" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#union" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -12177,7 +12177,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#unlock-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#unlock-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -12189,7 +12189,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#unlock" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#unlock" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -12201,7 +12201,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#upc-scan" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#upc-scan" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -12213,7 +12213,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#upc" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#upc" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -12225,7 +12225,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#upload" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#upload" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -12237,7 +12237,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#view-list" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#view-list" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -12249,7 +12249,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#view-stacked" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#view-stacked" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -12262,7 +12262,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#voicemail" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#voicemail" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -12274,7 +12274,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#volume-down-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#volume-down-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -12286,7 +12286,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#volume-down" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#volume-down" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -12298,7 +12298,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#volume-mute-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#volume-mute-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -12310,7 +12310,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#volume-mute" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#volume-mute" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -12322,7 +12322,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#volume-off-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#volume-off-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -12334,7 +12334,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#volume-off" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#volume-off" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -12346,7 +12346,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#volume-up-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#volume-up-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -12358,7 +12358,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#volume-up" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#volume-up" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -12370,7 +12370,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#vr" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#vr" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -12383,7 +12383,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#wallet-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#wallet-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -12396,7 +12396,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#wallet" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#wallet" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -12409,7 +12409,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#wallet2" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#wallet2" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -12421,7 +12421,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#watch" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#watch" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -12434,7 +12434,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#wifi-1" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#wifi-1" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -12447,7 +12447,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#wifi-2" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#wifi-2" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -12460,7 +12460,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#wifi-off" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#wifi-off" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -12473,7 +12473,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#wifi" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#wifi" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -12485,7 +12485,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#window" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#window" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -12497,7 +12497,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#wrench" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#wrench" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -12509,7 +12509,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#x-circle-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#x-circle-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -12521,7 +12521,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#x-circle" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#x-circle" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -12533,7 +12533,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#x-diamond-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#x-diamond-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -12545,7 +12545,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#x-diamond" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#x-diamond" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -12557,7 +12557,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#x-octagon-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#x-octagon-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -12569,7 +12569,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#x-octagon" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#x-octagon" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -12581,7 +12581,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#x-square-fill" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#x-square-fill" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -12593,7 +12593,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#x-square" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#x-square" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -12605,7 +12605,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#x" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#x" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -12617,7 +12617,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#zoom-in" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#zoom-in" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
@@ -12629,7 +12629,7 @@
                                         <div class="p-3 py-4 mb-2 bg-light text-center rounded">
                                             <svg class="bi" width="1em" height="1em" fill="currentColor">
                                                 <use
-                                                    xlink:href="assets/vendors/bootstrap-icons/bootstrap-icons.svg#zoom-out" />
+                                                    xlink:href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.svg#zoom-out" />
                                             </svg>
                                         </div>
                                         <div class="name text-muted text-decoration-none text-center pt-1">
