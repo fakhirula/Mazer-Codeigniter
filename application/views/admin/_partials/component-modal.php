@@ -50,7 +50,7 @@
                                         data-bs-target="#default">
                                         Launch Modal
                                     </button>
-            
+
                                     <!--Basic Modal -->
                                     <div class="modal fade text-left" id="default" tabindex="-1" role="dialog"
                                         aria-labelledby="myModalLabel1" aria-hidden="true">
@@ -69,7 +69,7 @@
                                                         dragée pastry.
                                                         Carrot cake
                                                         chocolate tootsie roll chocolate bar candy canes biscuit.
-            
+
                                                         Gummies bonbon apple pie fruitcake icing biscuit apple pie
                                                         jelly-o sweet
                                                         roll. Toffee sugar
@@ -119,7 +119,7 @@
                                             data-bs-toggle="modal" data-bs-target="#border-less">
                                             Launch Modal
                                         </button>
-            
+
                                         <!--BorderLess Modal Modal -->
                                         <div class="modal fade text-left modal-borderless" id="border-less"
                                             tabindex="-1" role="dialog" aria-labelledby="myModalLabel1"
@@ -250,7 +250,7 @@
                                             data-bs-toggle="modal" data-bs-backdrop="false" data-bs-target="#backdrop">
                                             Launch Modal
                                         </button>
-            
+
                                         <!--Disabled Backdrop Modal -->
                                         <div class="modal fade text-left" id="backdrop" tabindex="-1" role="dialog"
                                             aria-labelledby="myModalLabel4" aria-hidden="true">
@@ -296,7 +296,7 @@
                     </div>
                 </section>
                 <!-- Basic Modals end -->
-            
+
                 <!-- Modal Themes start -->
                 <section id="modal-themes">
                     <div class="row">
@@ -320,7 +320,7 @@
                                                         data-bs-toggle="modal" data-bs-target="#primary">
                                                         Primary
                                                     </button>
-            
+
                                                     <!--primary theme Modal -->
                                                     <div class="modal fade text-left" id="primary" tabindex="-1"
                                                         role="dialog" aria-labelledby="myModalLabel160"
@@ -370,7 +370,7 @@
                                                         data-bs-toggle="modal" data-bs-target="#success">
                                                         Success
                                                     </button>
-            
+
                                                     <!--Success theme Modal -->
                                                     <div class="modal fade text-left" id="success" tabindex="-1"
                                                         role="dialog" aria-labelledby="myModalLabel110"
@@ -404,7 +404,7 @@
                                                                         <i class="bx bx-x d-block d-sm-none"></i>
                                                                         <span class="d-none d-sm-block">Close</span>
                                                                     </button>
-            
+
                                                                     <button type="button" class="btn btn-success ml-1"
                                                                         data-bs-dismiss="modal">
                                                                         <i class="bx bx-check d-block d-sm-none"></i>
@@ -421,7 +421,7 @@
                                                         data-bs-toggle="modal" data-bs-target="#danger">
                                                         Danger
                                                     </button>
-            
+
                                                     <!--Danger theme Modal -->
                                                     <div class="modal fade text-left" id="danger" tabindex="-1"
                                                         role="dialog" aria-labelledby="myModalLabel120"
@@ -470,7 +470,7 @@
                                                         data-bs-toggle="modal" data-bs-target="#info">
                                                         Info
                                                     </button>
-            
+
                                                     <!--info theme Modal -->
                                                     <div class="modal fade text-left" id="info" tabindex="-1"
                                                         role="dialog" aria-labelledby="myModalLabel130"
@@ -519,7 +519,7 @@
                                                         data-bs-toggle="modal" data-bs-target="#warning">
                                                         Warning
                                                     </button>
-            
+
                                                     <!--warning theme Modal -->
                                                     <div class="modal fade text-left" id="warning" tabindex="-1"
                                                         role="dialog" aria-labelledby="myModalLabel140"
@@ -552,7 +552,7 @@
                                                                         <i class="bx bx-x d-block d-sm-none"></i>
                                                                         <span class="d-none d-sm-block">Close</span>
                                                                     </button>
-            
+
                                                                     <button type="button" class="btn btn-warning ml-1"
                                                                         data-bs-dismiss="modal">
                                                                         <i class="bx bx-check d-block d-sm-none"></i>
@@ -619,7 +619,7 @@
                     </div>
                 </section>
                 <!-- Modal Themes end -->
-            
+
                 <!-- Modal Sizes start -->
                 <section id="modal-sizes">
                     <div class="card">
@@ -643,7 +643,7 @@
                                                 data-bs-target="#small">
                                                 Small Modal
                                             </button>
-            
+
                                             <!--small size modal -->
                                             <div class="modal fade text-left" id="small" tabindex="-1" role="dialog"
                                                 aria-labelledby="myModalLabel19" aria-hidden="true">
@@ -690,7 +690,7 @@
                                                 data-bs-target="#defaultSize">
                                                 Default Modal
                                             </button>
-            
+
                                             <!--Default size Modal -->
                                             <div class="modal fade text-left" id="defaultSize" tabindex="-1"
                                                 role="dialog" aria-labelledby="myModalLabel18" aria-hidden="true">
@@ -783,7 +783,7 @@
                                                 data-bs-target="#xlarge">
                                                 Extra Large Modal
                                             </button>
-            
+
                                             <!--Extra Large Modal -->
                                             <div class="modal fade text-left w-100" id="xlarge" tabindex="-1"
                                                 role="dialog" aria-labelledby="myModalLabel16" aria-hidden="true">
@@ -830,7 +830,7 @@
                                                 data-bs-target="#full-scrn">
                                                 Full Screen Modal
                                             </button>
-            
+
                                             <!-- full size modal-->
                                             <div class="modal fade text-left w-100" id="full-scrn" tabindex="-1"
                                                 role="dialog" aria-labelledby="myModalLabel20" aria-hidden="true">
@@ -877,7 +877,7 @@
                     </div>
                 </section>
                 <!-- Modal Sizes end -->
-            
+
                 <!-- Form and scrolling Components start -->
                 <section id="form-and-scrolling-components">
                     <div class="row">
@@ -893,7 +893,7 @@
                                                 data-bs-target="#inlineForm">
                                                 Launch Modal
                                             </button>
-            
+
                                             <!--login form Modal -->
                                             <div class="modal fade text-left" id="inlineForm" tabindex="-1"
                                                 role="dialog" aria-labelledby="myModalLabel33" aria-hidden="true">
@@ -955,7 +955,7 @@
                                             data-bs-target="#exampleModalLong">
                                             Launch demo modal
                                         </button>
-            
+
                                         <!--scrollbar Modal -->
                                         <div class="modal fade" id="exampleModalLong" tabindex="-1" role="dialog"
                                             aria-labelledby="exampleModalLongTitle" aria-hidden="true">
@@ -1115,7 +1115,7 @@
                                                             <i class="bx bx-x d-block d-sm-none"></i>
                                                             <span class="d-none d-sm-block">Close</span>
                                                         </button>
-            
+
                                                         <button type="button" class="btn btn-primary ml-1"
                                                             data-bs-dismiss="modal">
                                                             <i class="bx bx-check d-block d-sm-none"></i>
@@ -1145,7 +1145,7 @@
                                             data-bs-target="#exampleModalScrollable">
                                             Launch demo modal
                                         </button>
-            
+
                                         <!--scrolling content Modal -->
                                         <div class="modal fade" id="exampleModalScrollable" tabindex="-1" role="dialog"
                                             aria-labelledby="exampleModalScrollableTitle" aria-hidden="true">
@@ -1322,7 +1322,7 @@
                                             data-bs-target="#animation">
                                             Launch demo modal
                                         </button>
-            
+
                                         <!-- disabled animation Modal -->
                                         <div class="modal text-left" id="animation" tabindex="-1" role="dialog"
                                             aria-labelledby="myModalLabel6" aria-hidden="true">

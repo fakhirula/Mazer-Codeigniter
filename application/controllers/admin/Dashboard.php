@@ -77,7 +77,7 @@ class Dashboard extends CI_Controller {
 	}
 	public function component_list_group()
 	{
-		$this->load->view('admin/_partials/component-list_group');
+		$this->load->view('admin/_partials/component-list-group');
 	}
 	public function component_modal()
 	{
@@ -160,29 +160,29 @@ class Dashboard extends CI_Controller {
 	{
 		$this->load->view('admin/_partials/form-editor-tinymce');
 	}
-	public function form_editor_checkbox()
+	public function form_element_checkbox()
 	{
-		$this->load->view('admin/_partials/form-editor-checkbox');
+		$this->load->view('admin/_partials/form-element-checkbox');
 	}
-	public function form_editor_input_group()
+	public function form_element_input_group()
 	{
-		$this->load->view('admin/_partials/form-editor-input-group');
+		$this->load->view('admin/_partials/form-element-input-group');
 	}
-	public function form_editor_input()
+	public function form_element_input()
 	{
-		$this->load->view('admin/_partials/form-editor-input');
+		$this->load->view('admin/_partials/form-element-input');
 	}
-	public function form_editor_radio()
+	public function form_element_radio()
 	{
-		$this->load->view('admin/_partials/form-editor-radio');
+		$this->load->view('admin/_partials/form-element-radio');
 	}
-	public function form_editor_select()
+	public function form_element_select()
 	{
-		$this->load->view('admin/_partials/form-editor-select');
+		$this->load->view('admin/_partials/form-element-select');
 	}
-	public function form_editor_textarea()
+	public function form_element_textarea()
 	{
-		$this->load->view('admin/_partials/form-editor-textarea');
+		$this->load->view('admin/_partials/form-element-textarea');
 	}
 	public function form_layout()
 	{
@@ -245,13 +245,13 @@ class Dashboard extends CI_Controller {
 	{
 		$this->load->view('admin/_partials/ui-icons-fontawesome');
 	}
-	public function iu_map_google_map()
+	public function ui_map_google_map()
 	{
-		$this->load->view('admin/_partials/iu-map-google-map');
+		$this->load->view('admin/_partials/ui-map-google-map');
 	}
-	public function iu_map_jsvector_map()
+	public function ui_map_jsvectormap()
 	{
-		$this->load->view('admin/_partials/iu-map-jsvector-map');
+		$this->load->view('admin/_partials/ui-map-jsvectormap');
 	}
 	public function ui_widgets_chatbox()
 	{

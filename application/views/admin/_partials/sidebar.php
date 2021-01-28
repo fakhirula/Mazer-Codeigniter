@@ -129,7 +129,7 @@
                             <a href="<?php echo base_url('')?>admin/form_element_input">Input</a>
                         </li>
                         <li class="submenu-item ">
-                            <a href="<?php echo base_url('')?>admin/form_element_input-group">Input Group</a>
+                            <a href="<?php echo base_url('')?>admin/form_element_input_group">Input Group</a>
                         </li>
                         <li class="submenu-item ">
                             <a href="<?php echo base_url('')?>admin/form_element_select">Select</a>
