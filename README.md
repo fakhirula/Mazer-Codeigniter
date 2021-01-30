@@ -21,13 +21,6 @@ git clone https://github.com/fakhirula/Mazer-Codeigniter
 - Open the [demo page](http://zuramai.github.io/mazer/demo)
 - Open the original template (https://github.com/zuramai/mazer)
 
-### Note
-- If you want to make some changes in the CSS style. Don't edit the `.css` file, use the SCSS file instead.
-- Since we use Nunjucks, if you want to make changes to the HTML structure, make sure you change the source file (Nunjucks) located in `src`.
-
-## License
-Mazer is under MIT License.
-
 ## About the Author
 Mazer is created by Saugi.
 Mazer-Codeigniter Remade by Rul.
