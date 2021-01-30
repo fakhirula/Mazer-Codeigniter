@@ -4,7 +4,6 @@
 	
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-green.svg?style=flat-square)](#contributors-)
 ![GitHub star](https://img.shields.io/github/stars/fakhirula/Mazer-Codeigniter)
-![GitHub repo size in bytes](https://img.shields.io/github/repo-size/badges/shields.svg)
 [![License](https://img.shields.io/github/license/fakhirula/Mazer-Codeigniter)](LICENSE)
 ![npm version](https://badge.fury.io/js/yarn.svg)
 </p>
