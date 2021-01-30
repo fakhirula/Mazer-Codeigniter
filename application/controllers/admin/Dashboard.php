@@ -266,3 +266,11 @@ class Dashboard extends CI_Controller {
 		$this->load->view('admin/_partials/ui-widgets-todolist');
 	}
 }
+
+
+// modal
+// sweet alert
+// toast
+// rating
+// chart js
+// css dan js

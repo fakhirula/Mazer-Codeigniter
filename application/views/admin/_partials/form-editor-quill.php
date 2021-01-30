@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
-
+<head>
     <?php $this->load->view("admin/_partials/head.php") ?>
-
+    
+</head>
 <body>
     <div id="app">
         <?php $this->load->view("admin/_partials/sidebar.php") ?>
@@ -12,7 +13,6 @@
                     <i class="bi bi-justify fs-3"></i>
                 </a>
             </header>
-              
             <div class="page-heading">
                 <div class="page-title">
                     <div class="row">
