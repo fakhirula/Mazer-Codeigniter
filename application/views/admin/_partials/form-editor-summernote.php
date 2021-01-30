@@ -5,14 +5,14 @@
     
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;600;700;800&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="assets/css/bootstrap.css">
+    <link rel="stylesheet" href="<?php echo base_url('') ?>assets/css/bootstrap.css">
 
-    <link rel="stylesheet" href="assets/vendors/summernote/summernote-lite.min.css">
+    <link rel="stylesheet" href="<?php echo base_url('') ?>assets/vendors/summernote/summernote-lite.min.css">
 
-    <link rel="stylesheet" href="assets/vendors/perfect-scrollbar/perfect-scrollbar.css">
-    <link rel="stylesheet" href="assets/vendors/bootstrap-icons/bootstrap-icons.css">
-    <link rel="stylesheet" href="assets/css/app.css">
-    <link rel="shortcut icon" href="assets/images/favicon.svg" type="image/x-icon">
+    <link rel="stylesheet" href="<?php echo base_url('') ?>assets/vendors/perfect-scrollbar/perfect-scrollbar.css">
+    <link rel="stylesheet" href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.css">
+    <link rel="stylesheet" href="<?php echo base_url('') ?>assets/css/app.css">
+    <link rel="shortcut icon" href="<?php echo base_url('') ?>assets/images/favicon.svg" type="image/x-icon">
 
 </head>
 <body>
@@ -74,6 +74,35 @@
             </div>
 
             <?php $this->load->view("admin/_partials/footer.php") ?>
+            <script src="<?php echo base_url('') ?>assets/vendors/perfect-scrollbar/perfect-scrollbar.min.js"></script>
+            <script src="<?php echo base_url('') ?>assets/js/bootstrap.bundle.min.js"></script>
+
+            <script src="<?php echo base_url('') ?>assets/vendors/jquery/jquery.min.js"></script>
+            <script src="<?php echo base_url('') ?>assets/vendors/summernote/summernote-lite.min.js"></script>
+            <script>
+                $('#summernote').summernote({
+                    tabsize: 2,
+                    height: 120,
+                })
+                $("#hint").summernote({
+                    height: 100,
+                    toolbar: false,
+                    placeholder: 'type with apple, orange, watermelon and lemon',
+                    hint: {
+                        words: ['apple', 'orange', 'watermelon', 'lemon'],
+                        match: /\b(\w{1,})$/,
+                        search: function (keyword, callback) {
+                            callback($.grep(this.words, function (item) {
+                                return item.indexOf(keyword) === 0;
+                            }));
+                        }
+                    }
+                });
+
+            </script>
+
+            <script src="<?php echo base_url('') ?>assets/js/main.js"></script>
+
         </div>
     </div>
     <?php $this->load->view("admin/_partials/btm_script.php") ?>

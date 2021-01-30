@@ -3,11 +3,11 @@
 <head>
     <?php $this->load->view("admin/_partials/head.php") ?>
     <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;600;700;800&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="assets/css/bootstrap.css">
+    <link rel="stylesheet" href="<?php echo base_url('') ?>assets/css/bootstrap.css">
     
-    <link rel="stylesheet" href="assets/vendors/bootstrap-icons/bootstrap-icons.css">
-    <link rel="stylesheet" href="assets/css/app.css">
-    <link rel="stylesheet" href="assets/css/pages/error.css">
+    <link rel="stylesheet" href="<?php echo base_url('') ?>assets/vendors/bootstrap-icons/bootstrap-icons.css">
+    <link rel="stylesheet" href="<?php echo base_url('') ?>assets/css/app.css">
+    <link rel="stylesheet" href="<?php echo base_url('') ?>assets/css/pages/error.css">
 
 </head>
 <body>
